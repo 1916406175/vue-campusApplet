@@ -1,0 +1,126 @@
+<view class="comp0_class">
+  <view class="comp2_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <t-tabs class="comp3_class" tabUnderlineColor="rgba(72,138,139,1)" tabActiveTextColor="rgba(72,138,139,1)" tabInactiveTextColor="#333" tabBackgroundColor="#ffffff" tabActiveTextSize="{{17}}" tabInActiveTextSize="{{17}}" defaultValue="{{0}}" bindchange="_method_onChangeOfMpTabs3">
+      <t-tab-panel class="comp4_class" value="{{0}}" label="项目信息">
+        <scroll-view class="comp17_class" scroll-x="{{false}}" scroll-y="{{true}}" upper-threshold="{{50}}">
+          <view class="comp773_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <view class="comp774_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <x-text class="comp775_class" user-select="{{false}}" decode="{{false}}">项目类型：</x-text>
+              <x-text class="comp776_class" user-select="{{false}}" decode="{{false}}">工程项目</x-text></view
+            >
+            <view class="comp777_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <x-text class="comp778_class" user-select="{{false}}" decode="{{false}}">项目编号：</x-text>
+              <x-text class="comp779_class" user-select="{{false}}" decode="{{false}}">202208220001</x-text></view
+            >
+            <view class="comp780_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <x-text class="comp781_class" user-select="{{false}}" decode="{{false}}">项目名称：</x-text>
+              <view class="comp782_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp783_class" user-select="{{false}}" decode="{{false}}">园区2号楼的装修施工工程</x-text></view></view
+            >
+            <view class="comp784_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <x-text class="comp785_class" user-select="{{false}}" decode="{{false}}">联系信息：</x-text>
+              <x-text class="comp786_class" user-select="{{false}}" decode="{{false}}">李四 13399982034</x-text></view
+            >
+            <view class="comp787_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <x-text class="comp788_class" user-select="{{false}}" decode="{{false}}">项目期限：</x-text>
+              <x-text class="comp789_class" user-select="{{false}}" decode="{{false}}">不限</x-text></view
+            >
+            <view class="comp790_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <x-text class="comp791_class" user-select="{{false}}" decode="{{false}}">项目要求：</x-text>
+              <view class="comp792_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp793_class" user-select="{{false}}" decode="{{false}}">具备XXX资质证书</x-text></view></view
+            >
+            <view class="comp794_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <x-text class="comp795_class" user-select="{{false}}" decode="{{false}}">项目描述：</x-text>
+              <x-text class="comp796_class" user-select="{{false}}" decode="{{false}}">园区2号楼的装修施工工程，涉及面积2000平米园区2号楼的装修施工工程，涉及面积2000平米</x-text>
+              <image class="comp797_class" mode="widthFix" src="{{variable_srcOfXImage797}}"></image>
+              <image class="comp798_class" src="https://s2-cdn.oneitfarm.com/Fpc8gezlYnWOvh9XhIjOCJop9Kxr" mode="widthFix"></image></view></view></scroll-view
+      ></t-tab-panel>
+      <t-tab-panel class="comp6_class" value="{{1}}" label="项目进展">
+        <scroll-view class="comp147_class" scroll-x="{{false}}" scroll-y="{{true}}" upper-threshold="{{50}}">
+          <view class="comp628_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <view class="comp799_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <view class="comp803_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                <x-text class="comp804_class" user-select="{{false}}" decode="{{false}}">项目状态：</x-text>
+                <view class="comp829_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                  <view class="comp830_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp831_class" user-select="{{false}}" decode="{{false}}">建设中</x-text></view>
+                  <view class="comp832_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp833_class" user-select="{{false}}" decode="{{false}}">项目结束</x-text></view>
+                  <view class="comp834_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp835_class" user-select="{{false}}" decode="{{false}}">项目终止</x-text></view></view
+                ></view
+              >
+              <view class="comp825_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                <x-text class="comp826_class" user-select="{{false}}" decode="{{false}}">项目起止日期：</x-text>
+                <x-text class="comp827_class" user-select="{{false}}" decode="{{false}}">2022-01-01 至今</x-text></view
+              ></view
+            >
+            <view class="comp645_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <view class="comp852_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                <view class="comp918_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                  <view class="comp919_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                    <view class="comp920_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+                    <view class="comp921_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp922_class" user-select="{{false}}" decode="{{false}}">项目创建</x-text></view></view
+                  >
+                  <view class="comp923_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                    <view class="comp924_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                      <x-text class="comp925_class" user-select="{{false}}" decode="{{false}}">正在打地基，这块地有点问题，不好处理</x-text>
+                      <view class="comp926_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                        <view class="comp927_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+                        <view class="comp928_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+                        <view class="comp929_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view
+                      ></view>
+                      <view class="comp930_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                        <x-text class="comp931_class" user-select="{{false}}" decode="{{false}}">操作人：</x-text>
+                        <x-text class="comp932_class" user-select="{{false}}" decode="{{false}}">无</x-text></view
+                      >
+                      <view class="comp933_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                        <x-text class="comp934_class" user-select="{{false}}" decode="{{false}}">操作时间：</x-text>
+                        <x-text class="comp935_class" user-select="{{false}}" decode="{{false}}">2022-10-01 10:00:00</x-text></view
+                      >
+                      <view class="comp936_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <view class="comp937_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></view></view></view
+                ></view>
+                <view class="comp898_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                  <view class="comp899_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                    <view class="comp900_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+                    <view class="comp901_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp902_class" user-select="{{false}}" decode="{{false}}">建设中</x-text></view></view
+                  >
+                  <view class="comp903_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                    <view class="comp904_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                      <x-text class="comp905_class" user-select="{{false}}" decode="{{false}}">正在打地基，这块地有点问题，不好处理</x-text>
+                      <view class="comp906_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                        <view class="comp907_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+                        <view class="comp908_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+                        <view class="comp909_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view
+                      ></view>
+                      <view class="comp910_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                        <x-text class="comp911_class" user-select="{{false}}" decode="{{false}}">操作人：</x-text>
+                        <x-text class="comp912_class" user-select="{{false}}" decode="{{false}}">无</x-text></view
+                      >
+                      <view class="comp913_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                        <x-text class="comp914_class" user-select="{{false}}" decode="{{false}}">操作时间：</x-text>
+                        <x-text class="comp915_class" user-select="{{false}}" decode="{{false}}">2022-10-01 10:00:00</x-text></view
+                      >
+                      <view class="comp916_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <view class="comp917_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></view></view></view
+                ></view>
+                <view class="comp938_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                  <view class="comp939_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                    <view class="comp940_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+                    <view class="comp941_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp942_class" user-select="{{false}}" decode="{{false}}">建设中</x-text></view></view
+                  >
+                  <view class="comp943_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                    <view class="comp944_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                      <x-text class="comp945_class" user-select="{{false}}" decode="{{false}}">正在打地基，这块地有点问题，不好处理</x-text>
+                      <view class="comp946_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                        <view class="comp947_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+                        <view class="comp948_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+                        <view class="comp949_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view
+                      ></view>
+                      <view class="comp950_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                        <x-text class="comp951_class" user-select="{{false}}" decode="{{false}}">操作人：</x-text>
+                        <x-text class="comp952_class" user-select="{{false}}" decode="{{false}}">无</x-text></view
+                      >
+                      <view class="comp953_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                        <x-text class="comp954_class" user-select="{{false}}" decode="{{false}}">操作时间：</x-text>
+                        <x-text class="comp955_class" user-select="{{false}}" decode="{{false}}">2022-10-01 10:00:00</x-text></view
+                      >
+                      <view class="comp956_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <view class="comp957_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></view></view></view></view></view></view></view></scroll-view></t-tab-panel></t-tabs
+  ></view>
+  <view class="comp896_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variable_vifOfXView896}}"> <button class="comp897_class" size="diy" type="default" plain="{{false}}" disabled="{{false}}" loading="{{false}}" hover-class="button-hover" hover-stop-propagation="{{false}}" hover-start-time="{{20}}" hover-stay-time="{{70}}">添加进展情况</button></view></view
+>

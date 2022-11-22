@@ -1,0 +1,433 @@
+
+    <view
+      
+      class="comp0_class"
+      
+      
+      >
+    <view
+      
+      class="comp2_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <t-tabs
+      
+      class="comp3_class"
+      
+      
+      tabUnderlineColor="rgba(72,138,139,1)" tabActiveTextColor="rgba(72,138,139,1)" tabInactiveTextColor="#333" tabBackgroundColor="#ffffff" tabActiveTextSize="{{17}}" tabInActiveTextSize="{{17}}" defaultValue="{{0}}" bindchange="_method_onChangeOfMpTabs3">
+    <t-tab-panel
+      
+      class="comp4_class"
+      
+      
+      value="{{0}}" label="预约申请">
+    <scroll-view
+      
+      class="comp17_class"
+      
+      
+      scroll-x="{{false}}" scroll-y="{{true}}" upper-threshold="{{50}}">
+    <view
+      
+      class="comp85_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp270_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp271_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp272_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp273_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">访客类型</x-text></view>
+    <view
+      
+      class="comp274_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <picker
+      
+      class="comp586_class"
+      
+      
+      mode="multiSelector" disabled="{{false}}" range="{{comp586_range}}" value="{{comp586_value}}" bindchange="_method_onChangeOfXPicker586">
+    <x-view
+      
+      class="comp587_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp588_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">选择访客类型</x-text></x-view></picker></view></view>
+    <view
+      
+      class="comp287_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp288_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp289_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">来访人数</x-text></view>
+    <view
+      
+      class="comp290_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <input
+      
+      class="comp478_class"
+      
+      
+      type="text" password="{{false}}" placeholder="请输入来访人数" placeholder-class="input-placeholder" disabled="{{false}}" maxlength="{{140}}" cursor-spacing="{{0}}" focus="{{false}}" confirm-type="done" always-embed="{{false}}" confirm-hold="{{false}}" selection-start="{{-1}}" selection-end="{{-1}}" adjust-position="{{true}}" hold-keyboard="{{false}}" bindinput="_method_onInputOfXInput478"></input></view>
+    <view
+      
+      class="comp293_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp294_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp295_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">到访时间</x-text></view>
+    <view
+      
+      class="comp296_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <input
+      
+      class="comp479_class"
+      
+      
+      type="text" password="{{false}}" placeholder="请输入到访时间" placeholder-class="input-placeholder" disabled="{{false}}" maxlength="{{140}}" cursor-spacing="{{0}}" focus="{{false}}" confirm-type="done" always-embed="{{false}}" confirm-hold="{{false}}" selection-start="{{-1}}" selection-end="{{-1}}" adjust-position="{{true}}" hold-keyboard="{{false}}" bindinput="_method_onInputOfXInput479"></input></view></view>
+    <view
+      
+      class="comp299_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp300_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp301_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">来访天数</x-text></view>
+    <view
+      
+      class="comp302_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <input
+      
+      class="comp480_class"
+      
+      
+      type="text" password="{{false}}" placeholder="请输入来访天数" placeholder-class="input-placeholder" disabled="{{false}}" maxlength="{{140}}" cursor-spacing="{{0}}" focus="{{false}}" confirm-type="done" always-embed="{{false}}" confirm-hold="{{false}}" selection-start="{{-1}}" selection-end="{{-1}}" adjust-position="{{true}}" hold-keyboard="{{false}}" bindinput="_method_onInputOfXInput480"></input></view>
+    <view
+      
+      class="comp305_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp306_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp307_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">申请日期</x-text></view>
+    <view
+      
+      class="comp308_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp309_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">{{ variable_yuyueshenqingxinxi.createTime }}</x-text></view></view></view>
+    <view
+      
+      class="comp312_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <button
+      
+      class="comp313_class"
+      
+      
+      size="diy" type="default" plain="{{false}}" disabled="{{false}}" loading="{{false}}" hover-class="button-hover" hover-stop-propagation="{{false}}" hover-start-time="{{20}}" hover-stay-time="{{70}}" bindtap="method_onTapOfXButton313">提交申请</button></view></view></scroll-view></t-tab-panel>
+    <t-tab-panel
+      
+      class="comp6_class"
+      
+      
+      value="{{1}}" label="我的申请">
+    <scroll-view
+      
+      class="comp147_class"
+      
+      
+      scroll-x="{{false}}" scroll-y="{{true}}" upper-threshold="{{50}}">
+    <view
+      
+      class="comp148_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp149_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variable_vifOfXView149}}">
+    <view
+      
+      class="comp150_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp151_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <x-text
+      
+      class="comp153_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">暂无数据</x-text></view></view>
+    <view
+      
+      class="comp336_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{(variable_vifOfXView149==false)}}">
+    <view
+      
+      class="comp373_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:for="{{variable_wodeshenqingliebiaoshuzu}}" wx:for-item="variableWodeshenqingliebiaoshuzuItem" wx:for-index="variableWodeshenqingliebiaoshuzuIndex">
+    <view
+      
+      class="comp374_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp375_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp376_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">访客预约</x-text>
+    <view
+      
+      class="comp377_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp378_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      style="color: {{variableWodeshenqingliebiaoshuzuItem.state_color + ' !important'}}"
+      class="comp379_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">{{ variableWodeshenqingliebiaoshuzuItem.state_text }}</x-text></view></view></view>
+    <x-text
+      
+      class="comp384_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">{{ variableWodeshenqingliebiaoshuzuItem.createTime }}</x-text></view>
+    <view
+      
+      class="comp385_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp386_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp387_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">访客类型：</x-text>
+    <view
+      
+      class="comp388_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp389_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">{{ variableWodeshenqingliebiaoshuzuItem.visitorType_text }}</x-text></view></view>
+    <view
+      
+      class="comp390_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp391_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">联系信息：</x-text>
+    <x-text
+      
+      class="comp392_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">{{ variableWodeshenqingliebiaoshuzuItem.relationMessage }}</x-text></view>
+    <view
+      
+      class="comp393_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp394_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">来访人数：</x-text>
+    <x-text
+      
+      class="comp395_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">{{ variableWodeshenqingliebiaoshuzuItem.visitorNumber }}</x-text></view>
+    <view
+      
+      class="comp396_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp397_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">到访日期：</x-text>
+    <x-text
+      
+      class="comp398_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">{{ variableWodeshenqingliebiaoshuzuItem.arriveTime }}</x-text></view></view>
+    <view
+      
+      class="comp703_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variableWodeshenqingliebiaoshuzuItem.reason_boolean}}">
+    <x-text
+      
+      class="comp704_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">拒绝原因：</x-text>
+    <view
+      
+      class="comp705_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp706_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">{{ variableWodeshenqingliebiaoshuzuItem.reason }}</x-text></view></view>
+    <view
+      
+      class="comp707_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variableWodeshenqingliebiaoshuzuItem.chancel_boolean}}">
+    <button
+      
+      class="comp708_class"
+      
+      
+      size="diy" type="default" plain="{{false}}" disabled="{{false}}" loading="{{false}}" hover-class="button-hover" hover-stop-propagation="{{false}}" hover-start-time="{{20}}" hover-stay-time="{{70}}" bindtap="_method_onTapOfXButton708" data-variable-wodeshenqingliebiaoshuzu-item="{{variableWodeshenqingliebiaoshuzuItem}}">撤回</button></view></view></view></view></scroll-view></t-tab-panel></t-tabs></view></view>

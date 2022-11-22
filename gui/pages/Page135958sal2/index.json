@@ -1,0 +1,10 @@
+{
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "navigationStyle": "default",
+  "navigationBarTitleText": "访客预约",
+  "usingComponents": {
+    "t-tab-panel": "@wxmp/tdesign/tabs/tab-panel",
+    "t-tabs": "@wxmp/tdesign/tabs/tabs"
+  }
+}

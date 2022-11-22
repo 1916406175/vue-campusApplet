@@ -1,0 +1,787 @@
+
+    <view
+      
+      class="comp0_class"
+      
+      
+      >
+    <view
+      
+      class="comp2_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp3_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp9_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp8_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <view
+      
+      class="comp11_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <input
+      
+      class="comp10_class"
+      
+      
+      type="text" password="{{false}}" placeholder="搜索人员" placeholder-class="input-placeholder" disabled="{{false}}" maxlength="{{140}}" cursor-spacing="{{0}}" focus="{{false}}" confirm-type="done" always-embed="{{false}}" confirm-hold="{{false}}" selection-start="{{-1}}" selection-end="{{-1}}" adjust-position="{{true}}" hold-keyboard="{{false}}"></input></view></view></view>
+    <view
+      
+      class="comp4_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <scroll-view
+      
+      class="comp5_class"
+      
+      
+      scroll-x="{{false}}" scroll-y="{{true}}" upper-threshold="{{50}}">
+    <view
+      
+      class="comp6_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp7_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp13_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp14_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp15_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp17_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">采购部</x-text></view>
+    <view
+      
+      class="comp19_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp20_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></view></view></view>
+    <view
+      
+      class="comp22_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp32_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp33_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp34_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp35_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <view
+      
+      class="comp38_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp36_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">李晓娜</x-text>
+    <x-text
+      
+      class="comp39_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">经理</x-text></view></view></view></view></view></view>
+    <view
+      
+      class="comp64_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp72_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp80_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp81_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp82_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp83_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <view
+      
+      class="comp84_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp85_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">李晓娜</x-text>
+    <x-text
+      
+      class="comp86_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">经理</x-text></view></view>
+    <view
+      
+      class="comp87_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></view></view>
+    <view
+      
+      class="comp88_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp89_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp90_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp91_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <view
+      
+      class="comp92_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp93_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">张伟</x-text>
+    <x-text
+      
+      class="comp94_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">副经理</x-text></view></view>
+    <view
+      
+      class="comp95_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></view></view>
+    <view
+      
+      class="comp96_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp97_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp98_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp99_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <view
+      
+      class="comp100_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp101_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">李晓娜</x-text>
+    <x-text
+      
+      class="comp102_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">经理</x-text></view></view>
+    <view
+      
+      class="comp103_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></view></view></view></view>
+    <view
+      
+      class="comp112_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp120_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp128_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp129_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp130_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp131_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <view
+      
+      class="comp132_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp133_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">李晓娜</x-text>
+    <x-text
+      
+      class="comp134_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">经理</x-text></view></view>
+    <view
+      
+      class="comp135_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></view></view>
+    <view
+      
+      class="comp136_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp137_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp138_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp139_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <view
+      
+      class="comp140_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp141_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">张伟</x-text>
+    <x-text
+      
+      class="comp142_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">副经理</x-text></view></view>
+    <view
+      
+      class="comp143_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></view></view>
+    <view
+      
+      class="comp144_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp145_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp146_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp147_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <view
+      
+      class="comp148_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp149_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">李晓娜</x-text>
+    <x-text
+      
+      class="comp150_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">经理</x-text></view></view>
+    <view
+      
+      class="comp151_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></view></view></view></view>
+    <view
+      
+      class="comp160_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp161_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <view
+      
+      class="comp168_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp176_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp177_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp178_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp179_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <view
+      
+      class="comp180_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp181_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">李晓娜</x-text>
+    <x-text
+      
+      class="comp182_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">经理</x-text></view></view>
+    <view
+      
+      class="comp183_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></view></view>
+    <view
+      
+      class="comp184_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp185_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp186_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp187_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <view
+      
+      class="comp188_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp189_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">张伟</x-text>
+    <x-text
+      
+      class="comp190_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">副经理</x-text></view></view>
+    <view
+      
+      class="comp191_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></view></view>
+    <view
+      
+      class="comp192_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp193_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp194_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp195_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <view
+      
+      class="comp196_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp197_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">李晓娜</x-text>
+    <x-text
+      
+      class="comp198_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">经理</x-text></view></view>
+    <view
+      
+      class="comp199_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></view></view></view></view>
+    <view
+      
+      class="comp208_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp209_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <view
+      
+      class="comp216_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp224_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp225_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp226_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp227_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <view
+      
+      class="comp228_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp229_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">李晓娜</x-text>
+    <x-text
+      
+      class="comp230_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">经理</x-text></view></view>
+    <view
+      
+      class="comp231_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></view></view>
+    <view
+      
+      class="comp232_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp233_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp234_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp235_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <view
+      
+      class="comp236_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp237_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">张伟</x-text>
+    <x-text
+      
+      class="comp238_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">副经理</x-text></view></view>
+    <view
+      
+      class="comp239_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></view></view>
+    <view
+      
+      class="comp240_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp241_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp242_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp243_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <view
+      
+      class="comp244_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp245_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">李晓娜</x-text>
+    <x-text
+      
+      class="comp246_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">经理</x-text></view></view>
+    <view
+      
+      class="comp247_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></view></view></view></view></view></scroll-view></view></view></view>

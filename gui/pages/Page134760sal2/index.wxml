@@ -1,0 +1,355 @@
+
+    <view
+      
+      class="comp0_class"
+      
+      
+      >
+    <view
+      
+      class="comp2_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp4_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <van-dropdown-menu
+      
+      class="comp237_class"
+      
+      
+      activeColor="rgba(72,138,139,1)">
+    <van-dropdown-item
+      
+      class="comp238_class"
+      
+      
+      options="{{comp238_options}}" disabled="{{false}}" titleSlot="{{false}}" optionsSlot="{{false}}" model:value="{{variable_vModelOfVanDropdownItem238}}" bindchange="_method_onChangeOfVanDropdownItem238_1">
+    <view
+      
+      class="comp239_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></van-dropdown-item>
+    <view
+      
+      class="comp240_class"
+      
+      slot="title0"
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <van-dropdown-item
+      
+      class="comp241_class"
+      
+      
+      options="{{comp241_options}}" disabled="{{false}}" titleSlot="{{false}}" optionsSlot="{{false}}" model:value="{{variable_vModelOfVanDropdownItem241}}" bindchange="_method_onChangeOfVanDropdownItem241_1">
+    <view
+      
+      class="comp242_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></van-dropdown-item>
+    <view
+      
+      class="comp243_class"
+      
+      slot="title1"
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <view
+      
+      class="comp244_class"
+      
+      slot="title1"
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></van-dropdown-menu></view>
+    <view
+      
+      class="comp5_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <scroll-view
+      
+      class="comp6_class"
+      
+      
+      scroll-x="{{false}}" scroll-y="{{true}}" upper-threshold="{{50}}" bindscrolltolower="method_onScrolltolowerOfXScrollView6">
+    <view
+      
+      class="comp7_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp16_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:for="{{variable_vforOfXView186}}" wx:for-item="variableVforOfXView186Item" wx:for-index="variableVforOfXView186Index" wx:key="businessId">
+    <view
+      
+      class="comp17_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp20_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp22_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">{{ variableVforOfXView186Item.businessName }}</x-text>
+    <view
+      
+      class="comp25_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp23_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{(variableVforOfXView186Item.stateStr==variable_vifOfXView23)}}">
+    <x-text
+      
+      class="comp24_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">待审核</x-text></view>
+    <view
+      
+      class="comp26_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{(variableVforOfXView186Item.stateStr==variable_yitongguodetiaojianxianshi)}}">
+    <x-text
+      
+      class="comp27_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">已通过</x-text></view>
+    <view
+      
+      class="comp28_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{(variableVforOfXView186Item.stateStr==variable_vifOfXView195)}}">
+    <x-text
+      
+      class="comp29_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">已拒绝</x-text></view></view></view>
+    <x-text
+      
+      class="comp21_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">{{ variableVforOfXView186Item.applyDate }}</x-text></view>
+    <view
+      
+      class="comp18_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp30_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp31_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">企业名称：</x-text>
+    <view
+      
+      class="comp49_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp32_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">{{ variableVforOfXView186Item.orgName }}</x-text></view></view>
+    <view
+      
+      class="comp33_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp34_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">联系信息：</x-text>
+    <x-text
+      
+      class="comp35_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">{{ variableVforOfXView186Item.contact }}</x-text></view>
+    <view
+      
+      class="comp36_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp37_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">来访人数：</x-text>
+    <x-text
+      
+      class="comp38_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">{{ variableVforOfXView186Item.visitorNumber }}</x-text></view>
+    <view
+      
+      class="comp39_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp40_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">到访日期：</x-text>
+    <x-text
+      
+      class="comp41_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">{{ variableVforOfXView186Item.arriveTime }}</x-text></view>
+    <view
+      
+      class="comp42_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp43_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">拒绝原因：</x-text>
+    <view
+      
+      class="comp48_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp44_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">{{ variableVforOfXView186Item.reason }}</x-text></view></view></view>
+    <view
+      
+      class="comp19_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{(variableVforOfXView186Item.stateStr==variable_vifOfXView23)}}">
+    <button
+      
+      class="comp47_class"
+      
+      
+      size="diy" type="default" plain="{{false}}" disabled="{{false}}" loading="{{false}}" hover-class="button-hover" hover-stop-propagation="{{false}}" hover-start-time="{{20}}" hover-stay-time="{{70}}">撤回</button>
+    <button
+      
+      class="comp45_class"
+      
+      
+      size="diy" type="default" plain="{{false}}" disabled="{{false}}" loading="{{false}}" hover-class="button-hover" hover-stop-propagation="{{false}}" hover-start-time="{{20}}" hover-stay-time="{{70}}" bindtap="method_onTapOfXButton45">拒绝</button>
+    <button
+      
+      class="comp46_class"
+      
+      
+      size="diy" type="default" plain="{{false}}" disabled="{{false}}" loading="{{false}}" hover-class="button-hover" hover-stop-propagation="{{false}}" hover-start-time="{{20}}" hover-stay-time="{{70}}">通过</button></view></view></view></scroll-view></view></view>
+    <view
+      
+      class="comp225_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variable_vifOfXView226}}">
+    <view
+      
+      class="comp226_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variable_vifOfXView226}}">
+    <x-text
+      
+      class="comp227_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">拒绝</x-text>
+    <view
+      
+      class="comp228_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp229_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <input
+      
+      class="comp230_class"
+      
+      
+      type="text" password="{{false}}" placeholder="请输入拒绝原因" placeholder-class="input-placeholder" disabled="{{false}}" maxlength="{{140}}" cursor-spacing="{{0}}" focus="{{false}}" confirm-type="done" always-embed="{{false}}" confirm-hold="{{false}}" selection-start="{{-1}}" selection-end="{{-1}}" adjust-position="{{true}}" hold-keyboard="{{false}}"></input></view></view>
+    <view
+      
+      class="comp231_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp232_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" bindtap="method_onTapOfXView232">
+    <x-text
+      
+      class="comp233_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">拒绝</x-text></view>
+    <view
+      
+      class="comp234_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" bindtap="method_onTapOfXView234">
+    <x-text
+      
+      class="comp235_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">确定</x-text></view></view></view></view></view>

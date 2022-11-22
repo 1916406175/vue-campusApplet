@@ -1,0 +1,2383 @@
+
+    <view
+      
+      class="comp0_class"
+      
+      
+      >
+    <view
+      
+      class="comp131_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp133_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp134_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">兴化粮食产业园园区服务平台</x-text></view>
+    <view
+      
+      class="comp135_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variable_vifOfXView135}}">
+    <view
+      
+      class="comp137_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+    <view
+      
+      class="comp139_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp140_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp141_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp142_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">所在地：</x-text>
+    <x-text
+      
+      class="comp143_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">兴化市</x-text></view>
+    <view
+      
+      class="comp144_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp145_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">天气：</x-text>
+    <x-text
+      
+      class="comp146_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">大雨</x-text></view></view>
+    <view
+      
+      class="comp147_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp148_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">温度：</x-text>
+    <x-text
+      
+      class="comp149_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">18</x-text>
+    <x-text
+      
+      class="comp150_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">℃</x-text></view></view>
+    <view
+      
+      class="comp152_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp153_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">园区管理</x-text></view>
+    <view
+      
+      class="comp155_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp156_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp157_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp158_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" bindtap="method_onTapOfXView158">
+    <image
+      
+      class="comp159_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp160_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp161_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">设备控制</x-text></view></view></view></view>
+    <view
+      
+      class="comp162_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp163_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp164_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" bindtap="method_onTapOfXView164">
+    <image
+      
+      class="comp165_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp166_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp167_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">人员管理</x-text></view></view></view></view>
+    <view
+      
+      class="comp168_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp169_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp170_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" bindtap="method_onTapOfXView170">
+    <image
+      
+      class="comp171_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp172_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp173_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">园区事件</x-text></view></view></view></view>
+    <view
+      
+      class="comp174_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp175_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp176_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <image
+      
+      class="comp177_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp178_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp179_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">考勤管理</x-text></view></view></view></view></view>
+    <view
+      
+      class="comp181_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp182_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">园区服务</x-text></view>
+    <view
+      
+      class="comp184_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp185_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp186_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp187_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" bindtap="method_onTapOfXView187">
+    <image
+      
+      class="comp188_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp189_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp190_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">访客预约</x-text></view></view></view></view>
+    <view
+      
+      class="comp191_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp192_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp193_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" bindtap="method_onTapOfXView193">
+    <image
+      
+      class="comp194_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp195_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp196_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">我的机构</x-text></view></view></view></view>
+    <view
+      
+      class="comp197_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp198_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp199_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <image
+      
+      class="comp200_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp201_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp202_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">园区项目</x-text></view></view></view></view>
+    <view
+      
+      class="comp203_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp204_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp205_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <image
+      
+      class="comp206_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp207_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp208_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">一卡通服务</x-text></view></view></view></view>
+    <view
+      
+      class="comp209_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp210_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp211_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <image
+      
+      class="comp212_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp213_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp214_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">停车服务</x-text></view></view></view></view>
+    <view
+      
+      class="comp215_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp216_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp217_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <image
+      
+      class="comp218_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp219_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp220_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">班车管理</x-text></view></view></view></view>
+    <view
+      
+      class="comp221_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp222_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp223_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <image
+      
+      class="comp224_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp225_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp226_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">园区食堂</x-text></view></view></view></view>
+    <view
+      
+      class="comp227_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp228_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp229_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <image
+      
+      class="comp230_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp231_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp232_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">场地预定</x-text></view></view></view></view>
+    <view
+      
+      class="comp233_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp234_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp235_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <image
+      
+      class="comp236_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp237_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp238_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">物业服务</x-text></view></view></view></view>
+    <view
+      
+      class="comp239_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp240_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp241_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <image
+      
+      class="comp242_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp243_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp244_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">租赁服务</x-text></view></view></view></view>
+    <view
+      
+      class="comp245_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp246_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp247_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <image
+      
+      class="comp248_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp249_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp250_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">活动项目</x-text></view></view></view></view>
+    <view
+      
+      class="comp251_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp252_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp253_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <image
+      
+      class="comp254_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp255_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp256_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">便捷服务</x-text></view></view></view></view></view></view>
+    <view
+      
+      class="comp257_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variable_vifOfXView257_1}}">
+    <view
+      
+      class="comp320_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp262_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp263_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp264_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <image
+      
+      class="comp265_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp266_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp267_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">视频监控</x-text></view></view></view></view>
+    <view
+      
+      class="comp268_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp269_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp270_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <image
+      
+      class="comp271_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp272_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp273_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">智慧门禁</x-text></view></view></view></view>
+    <view
+      
+      class="comp274_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp275_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp276_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <image
+      
+      class="comp277_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp278_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp279_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">园区车位</x-text></view></view></view></view></view>
+    <view
+      
+      class="comp321_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" bindtap="method_onTapOfXView321">
+    <image
+      
+      class="comp324_class"
+      
+      
+      src="https://s2-cdn.oneitfarm.com/FrywdutGItybVIL3Jcd5PtFdvmFA" mode="scaleToFill"></image></view></view>
+    <view
+      
+      class="comp281_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variable_vifOfXView281}}">
+    <view
+      
+      class="comp327_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp282_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp283_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp284_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <image
+      
+      class="comp285_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp286_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp287_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">园区人员</x-text></view></view></view></view>
+    <view
+      
+      class="comp288_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp289_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp290_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <image
+      
+      class="comp291_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp292_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp293_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">企业人员</x-text></view></view></view></view></view>
+    <view
+      
+      class="comp329_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" bindtap="method_onTapOfXView321">
+    <image
+      
+      class="comp330_class"
+      
+      
+      src="https://s2-cdn.oneitfarm.com/FrywdutGItybVIL3Jcd5PtFdvmFA" mode="scaleToFill"></image></view></view>
+    <view
+      
+      class="comp300_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variable_vifOfXView300}}">
+    <view
+      
+      class="comp331_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp301_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp302_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp303_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <image
+      
+      class="comp304_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp305_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp306_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">事件上报</x-text></view></view></view></view>
+    <view
+      
+      class="comp307_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp308_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp309_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <image
+      
+      class="comp310_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp311_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp312_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">事件安排</x-text></view></view></view></view>
+    <view
+      
+      class="comp313_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp314_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp315_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <image
+      
+      class="comp316_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp317_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp318_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">事件处理</x-text></view></view></view></view></view>
+    <view
+      
+      class="comp333_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" bindtap="method_onTapOfXView321">
+    <image
+      
+      class="comp334_class"
+      
+      
+      src="https://s2-cdn.oneitfarm.com/FrywdutGItybVIL3Jcd5PtFdvmFA" mode="scaleToFill"></image></view></view>
+    <view
+      
+      class="comp336_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variable_vifOfXView336}}">
+    <view
+      
+      class="comp337_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp359_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp360_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" bindtap="method_onTapOfXView360">
+    <x-text
+      
+      class="comp362_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">预约申请</x-text></view>
+    <view
+      
+      class="comp361_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" bindtap="method_onTapOfXView361">
+    <x-text
+      
+      class="comp363_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">我的申请</x-text></view></view>
+    <view
+      
+      class="comp419_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variable_vifOfXView464}}">
+    <view
+      
+      class="comp420_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp421_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">*</x-text>
+    <x-text
+      
+      class="comp422_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">访客类型</x-text>
+    <view
+      
+      class="comp423_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <picker
+      
+      class="comp424_class"
+      
+      
+      mode="multiSelector" disabled="{{false}}" range="{{comp424_range}}" value="{{comp424_value}}">
+    <x-view
+      
+      class="comp425_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp426_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">文本</x-text></x-view></picker>
+    <x-text
+      
+      class="comp427_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">V</x-text></view></view>
+    <view
+      
+      class="comp428_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp429_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">*</x-text>
+    <x-text
+      
+      class="comp430_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">到访时间</x-text>
+    <view
+      
+      class="comp431_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <input
+      
+      class="comp436_class"
+      
+      
+      type="text" password="{{false}}" placeholder="Enter something..." placeholder-class="input-placeholder" disabled="{{false}}" maxlength="{{140}}" cursor-spacing="{{0}}" focus="{{false}}" confirm-type="done" always-embed="{{false}}" confirm-hold="{{false}}" selection-start="{{-1}}" selection-end="{{-1}}" adjust-position="{{true}}" hold-keyboard="{{false}}"></input></view></view>
+    <view
+      
+      class="comp437_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp438_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">*</x-text>
+    <x-text
+      
+      class="comp439_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">来访天数</x-text>
+    <view
+      
+      class="comp440_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <input
+      
+      class="comp445_class"
+      
+      
+      type="text" password="{{false}}" placeholder="Enter something..." placeholder-class="input-placeholder" disabled="{{false}}" maxlength="{{140}}" cursor-spacing="{{0}}" focus="{{false}}" confirm-type="done" always-embed="{{false}}" confirm-hold="{{false}}" selection-start="{{-1}}" selection-end="{{-1}}" adjust-position="{{true}}" hold-keyboard="{{false}}"></input></view></view>
+    <view
+      
+      class="comp446_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp447_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">申请日期</x-text>
+    <view
+      
+      class="comp448_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp454_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">自动带错</x-text></view></view>
+    <view
+      
+      class="comp455_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp456_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp462_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">提交申请</x-text></view></view></view>
+    <view
+      
+      class="comp463_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variable_vifOfXView526}}">
+    <view
+      
+      class="comp464_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp507_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp509_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp510_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">访客类型：</x-text>
+    <x-text
+      
+      class="comp511_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">个人</x-text></view>
+    <view
+      
+      class="comp512_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp513_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">来访人数：</x-text>
+    <x-text
+      
+      class="comp514_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">1</x-text>
+    <x-text
+      
+      class="comp522_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">个人</x-text></view>
+    <view
+      
+      class="comp515_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp516_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">到访日期：</x-text>
+    <x-text
+      
+      class="comp517_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">2022-05-12</x-text></view>
+    <view
+      
+      class="comp523_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp524_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">到访日期：</x-text>
+    <x-text
+      
+      class="comp525_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">2022-05-12</x-text></view>
+    <view
+      
+      class="comp518_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp519_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">拒绝原因：</x-text>
+    <x-text
+      
+      class="comp520_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">疫情原因，暂不接待</x-text></view></view>
+    <view
+      
+      class="comp508_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp521_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">拒绝</x-text></view></view>
+    <view
+      
+      class="comp526_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp554_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp527_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp528_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp529_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">访客类型：</x-text>
+    <x-text
+      
+      class="comp530_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">个人</x-text></view>
+    <view
+      
+      class="comp531_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp532_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">来访人数：</x-text>
+    <x-text
+      
+      class="comp533_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">1</x-text>
+    <x-text
+      
+      class="comp534_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">个人</x-text></view>
+    <view
+      
+      class="comp535_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp536_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">到访日期：</x-text>
+    <x-text
+      
+      class="comp537_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">2022-05-12</x-text></view>
+    <view
+      
+      class="comp538_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp539_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">到访日期：</x-text>
+    <x-text
+      
+      class="comp540_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">2022-05-12</x-text></view></view>
+    <view
+      
+      class="comp544_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp545_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">带审核</x-text></view></view>
+    <view
+      
+      class="comp555_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp556_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp557_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">撤回</x-text></view></view></view></view></view>
+    <view
+      
+      class="comp356_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" bindtap="method_onTapOfXView321">
+    <image
+      
+      class="comp357_class"
+      
+      
+      src="https://s2-cdn.oneitfarm.com/FrywdutGItybVIL3Jcd5PtFdvmFA" mode="scaleToFill"></image></view></view>
+    <view
+      
+      class="comp558_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variable_vifOfXView558}}">
+    <view
+      
+      class="comp559_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp560_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp561_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp562_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <image
+      
+      class="comp563_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp564_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp565_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">机构备案</x-text></view></view></view></view>
+    <view
+      
+      class="comp566_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp567_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp568_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <image
+      
+      class="comp569_class"
+      
+      
+      src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="scaleToFill"></image>
+    <view
+      
+      class="comp570_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp571_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">机构人员</x-text></view></view></view></view></view>
+    <view
+      
+      class="comp578_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" bindtap="method_onTapOfXView321">
+    <image
+      
+      class="comp579_class"
+      
+      
+      src="https://s2-cdn.oneitfarm.com/FrywdutGItybVIL3Jcd5PtFdvmFA" mode="scaleToFill"></image></view></view>
+    <view
+      
+      class="comp581_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variable_vifOfXView581}}">
+    <view
+      
+      class="comp582_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp583_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp658_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp584_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" bindtap="method_onTapOfXView360">
+    <x-text
+      
+      class="comp585_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">园区项目</x-text></view>
+    <view
+      
+      class="comp586_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" bindtap="method_onTapOfXView361">
+    <x-text
+      
+      class="comp587_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">我的项目</x-text></view></view>
+    <view
+      
+      class="comp659_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp660_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">项目类型</x-text>
+    <view
+      
+      class="comp745_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></view></view>
+    <view
+      
+      class="comp588_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variable_vifOfXView581_1}}">
+    <view
+      
+      class="comp772_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp773_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp774_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp775_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">项目编号：</x-text>
+    <x-text
+      
+      class="comp776_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">3051810772</x-text></view>
+    <x-text
+      
+      class="comp777_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}"> 》</x-text></view>
+    <view
+      
+      class="comp749_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp759_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">项目名称：</x-text>
+    <x-text
+      
+      class="comp760_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">XXX招商</x-text></view>
+    <view
+      
+      class="comp761_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp762_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">项目类型：</x-text>
+    <x-text
+      
+      class="comp763_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">招商项目</x-text></view>
+    <view
+      
+      class="comp764_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp765_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">联系信息：</x-text>
+    <x-text
+      
+      class="comp766_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">李四</x-text>
+    <x-text
+      
+      class="comp770_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}"> / </x-text>
+    <x-text
+      
+      class="comp771_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">43214321432</x-text></view>
+    <view
+      
+      class="comp767_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp768_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">申请状态：</x-text>
+    <x-text
+      
+      class="comp769_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">已申请</x-text></view></view>
+    <view
+      
+      class="comp778_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp779_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp780_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp781_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">项目编号：</x-text>
+    <x-text
+      
+      class="comp782_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">3051810772</x-text></view>
+    <x-text
+      
+      class="comp783_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}"> 》</x-text></view>
+    <view
+      
+      class="comp784_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp789_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">项目名称：</x-text>
+    <x-text
+      
+      class="comp790_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">XXX招商</x-text></view>
+    <view
+      
+      class="comp791_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp792_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">项目类型：</x-text>
+    <x-text
+      
+      class="comp793_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">招商项目</x-text></view>
+    <view
+      
+      class="comp794_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp795_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">联系信息：</x-text>
+    <x-text
+      
+      class="comp796_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">李四</x-text>
+    <x-text
+      
+      class="comp797_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}"> / </x-text>
+    <x-text
+      
+      class="comp798_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">43214321432</x-text></view>
+    <view
+      
+      class="comp799_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp800_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">申请状态：</x-text>
+    <x-text
+      
+      class="comp801_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">未申请</x-text></view></view></view>
+    <view
+      
+      class="comp802_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variable_vifOfXView802}}">
+    <view
+      
+      class="comp803_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp804_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp805_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp806_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">项目编号：</x-text>
+    <x-text
+      
+      class="comp807_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">3051810772</x-text></view>
+    <x-text
+      
+      class="comp808_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}"> 》</x-text></view>
+    <view
+      
+      class="comp809_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp814_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">项目名称：</x-text>
+    <x-text
+      
+      class="comp815_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">XXX招商</x-text></view>
+    <view
+      
+      class="comp816_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp817_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">项目类型：</x-text>
+    <x-text
+      
+      class="comp818_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">招商项目</x-text></view>
+    <view
+      
+      class="comp819_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp820_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">联系信息：</x-text>
+    <x-text
+      
+      class="comp821_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">李四</x-text>
+    <x-text
+      
+      class="comp822_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}"> / </x-text>
+    <x-text
+      
+      class="comp823_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">43214321432</x-text></view>
+    <view
+      
+      class="comp824_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp825_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">发布日期：</x-text>
+    <x-text
+      
+      class="comp826_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">2022-05-10</x-text></view>
+    <view
+      
+      class="comp851_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp852_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">申请状态：</x-text>
+    <x-text
+      
+      class="comp853_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">已申请</x-text></view></view>
+    <view
+      
+      class="comp854_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp855_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp856_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp857_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">项目编号：</x-text>
+    <x-text
+      
+      class="comp858_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">3051810772</x-text></view>
+    <x-text
+      
+      class="comp859_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}"> 》</x-text></view>
+    <view
+      
+      class="comp860_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp865_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">项目名称：</x-text>
+    <x-text
+      
+      class="comp866_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">XXX招商</x-text></view>
+    <view
+      
+      class="comp867_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp868_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">项目类型：</x-text>
+    <x-text
+      
+      class="comp869_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">招商项目</x-text></view>
+    <view
+      
+      class="comp870_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp871_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">联系信息：</x-text>
+    <x-text
+      
+      class="comp872_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">李四</x-text>
+    <x-text
+      
+      class="comp873_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}"> / </x-text>
+    <x-text
+      
+      class="comp874_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">43214321432</x-text></view>
+    <view
+      
+      class="comp875_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp876_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">发布日期：</x-text>
+    <x-text
+      
+      class="comp877_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">2022-05-10</x-text></view>
+    <view
+      
+      class="comp878_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp879_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">申请状态：</x-text>
+    <x-text
+      
+      class="comp880_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">通过</x-text></view></view>
+    <view
+      
+      class="comp827_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp828_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp829_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp830_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">项目编号：</x-text>
+    <x-text
+      
+      class="comp831_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">3051810772</x-text></view>
+    <x-text
+      
+      class="comp832_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}"> 》</x-text></view>
+    <view
+      
+      class="comp833_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp838_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">项目名称：</x-text>
+    <x-text
+      
+      class="comp839_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">XXX招商</x-text></view>
+    <view
+      
+      class="comp840_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp841_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">项目类型：</x-text>
+    <x-text
+      
+      class="comp842_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">招商项目</x-text></view>
+    <view
+      
+      class="comp843_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp844_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">联系信息：</x-text>
+    <x-text
+      
+      class="comp845_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">李四</x-text>
+    <x-text
+      
+      class="comp846_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}"> / </x-text>
+    <x-text
+      
+      class="comp847_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">43214321432</x-text></view>
+    <view
+      
+      class="comp848_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp849_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">申请状态：</x-text>
+    <x-text
+      
+      class="comp850_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">拒绝</x-text></view>
+    <view
+      
+      class="comp881_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp882_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">拒绝原因：</x-text>
+    <x-text
+      
+      class="comp883_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">能力不行</x-text></view></view></view></view>
+    <view
+      
+      class="comp656_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" bindtap="method_onTapOfXView321">
+    <image
+      
+      class="comp657_class"
+      
+      
+      src="https://s2-cdn.oneitfarm.com/FrywdutGItybVIL3Jcd5PtFdvmFA" mode="scaleToFill"></image></view></view></view></view>

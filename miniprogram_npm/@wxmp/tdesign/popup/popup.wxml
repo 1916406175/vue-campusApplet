@@ -1,0 +1,23 @@
+<view
+  wx:if="{{realVisible}}"
+  style="{{customStyle}}"
+  class="{{className}} {{transitionClass}} {{prefix}}-class"
+  bind:transitionend="onTransitionEnd"
+>
+  <view class="{{classPrefix}}__content {{prefix}}-class-content" style="z-index:{{zIndex}}">
+    <view class="{{classPrefix}}__close">
+      <t-icon name="close" wx:if="{{closeBtn}}" bind:tap="handleClose" size="64rpx" />
+      <slot name="closeBtn" class="{{classPrefix}}-slot" />
+    </view>
+    <slot name="content" />
+    <slot />
+  </view>
+</view>
+
+<t-overlay
+  wx:if="{{showOverlay}}"
+  visible="{{visible}}"
+  prevent-scroll-through="{{preventScrollThrough || overlayProps.preventScrollThrough}}"
+  bind:tap="handleOverlayClick"
+  custom-style="{{overlayProps.customStyle || ''}}"
+/>

@@ -1,0 +1,1536 @@
+.comp0_class {
+  font-family: "Chinese Quote", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue",
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  line-height: 1.5;
+}
+view,
+movable-area,
+movable-view,
+scroll-view,
+swiper,
+swiper-item,
+view,
+progress,
+icon,
+rich-text,
+text,
+button,
+checkbox,
+checkbox-group,
+form,
+input,
+label,
+picker,
+picker-view,
+picker-view-column,
+radio,
+radio-group,
+slider,
+switch,
+navigator,
+image {
+  box-sizing: border-box;
+}
+page {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+switch .wx-switch-input {
+  margin-right: 0;
+}
+checkbox .wx-checkbox-input {
+  margin-right: 0;
+}
+radio .wx-radio-input {
+  margin-right: 0;
+}
+.input-placeholder {
+  color: #cccccc;
+}
+.textarea-placeholder {
+  color: #cccccc;
+}
+
+.comp8_class {
+  width: 36rpx !important;
+  height: 36rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/FtEigB2HL6wglrw7uWxdaz9g3j-R") !important;
+  margin: 0rpx 8rpx 0rpx 0rpx !important;
+}
+.comp10_class {
+  font-size: 26rpx !important;
+  line-height: 38rpx !important;
+}
+.comp11_class {
+  width: fit-content !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+}
+.comp9_class {
+  width: 100% !important;
+  height: 60rpx !important;
+  padding: 0rpx 24rpx 0rpx 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 12rpx 12rpx 12rpx 12rpx !important;
+  align-items: center !important;
+  background-color: rgba(245, 245, 245, 1) !important;
+}
+.comp3_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp17_class {
+  display: inline !important;
+  line-height: 44rpx !important;
+  font-size: 30rpx !important;
+  color: #333333 !important;
+  font-weight: normal !important;
+}
+.comp15_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  align-items: center !important;
+}
+.comp20_class {
+  width: 36rpx !important;
+  height: 36rpx !important;
+  display: none !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 0rpx 0rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/FrFZbQLLJIdW0gAoA50SkZz9DaSu") !important;
+}
+.comp19_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+}
+.comp14_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 0rpx 24rpx 0rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  border-color: rgba(238, 238, 238, 1) !important;
+  border-width: 2rpx !important;
+  border-style: none none solid none !important;
+  align-items: center !important;
+}
+.comp13_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 0rpx 24rpx 0rpx 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp35_class {
+  width: 80rpx !important;
+  height: 80rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/Fgwt33VYx49FzZYv8HDuj5OrkTD2") !important;
+  border-radius: 8rpx 8rpx 8rpx 8rpx !important;
+}
+.comp36_class {
+  display: inline !important;
+  line-height: 50rpx !important;
+  font-size: 34rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 0rpx 8rpx 0rpx !important;
+}
+.comp39_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+}
+.comp38_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp34_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  align-items: flex-start !important;
+}
+.comp33_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 0rpx 24rpx 0rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  border-color: rgba(238, 238, 238, 1) !important;
+  border-width: 2rpx !important;
+  border-style: none none solid none !important;
+  align-items: center !important;
+}
+.comp32_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 0rpx 24rpx 0rpx 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp22_class {
+  width: 100% !important;
+  height: fit-content !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(255, 255, 255, 1) !important;
+}
+.comp7_class {
+  width: 100% !important;
+  height: fit-content !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(255, 255, 255, 1) !important;
+}
+.comp83_class {
+  width: 80rpx !important;
+  height: 80rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/Fgwt33VYx49FzZYv8HDuj5OrkTD2") !important;
+  border-radius: 8rpx 8rpx 8rpx 8rpx !important;
+}
+.comp85_class {
+  display: inline !important;
+  line-height: 50rpx !important;
+  font-size: 34rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 0rpx 8rpx 0rpx !important;
+}
+.comp86_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+}
+.comp84_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp82_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  align-items: flex-start !important;
+}
+.comp87_class {
+  width: 36rpx !important;
+  height: 36rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 0rpx 0rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/FpilRP1Pfd4v4tPOIjVnspvcxlhK") !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+}
+.comp81_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 0rpx 24rpx 0rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  border-color: rgba(238, 238, 238, 1) !important;
+  border-width: 2rpx !important;
+  border-style: none none solid none !important;
+  align-items: center !important;
+}
+.comp80_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 0rpx 24rpx 0rpx 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp91_class {
+  width: 80rpx !important;
+  height: 80rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/Fgwt33VYx49FzZYv8HDuj5OrkTD2") !important;
+  border-radius: 8rpx 8rpx 8rpx 8rpx !important;
+}
+.comp93_class {
+  display: inline !important;
+  line-height: 50rpx !important;
+  font-size: 34rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 0rpx 8rpx 0rpx !important;
+}
+.comp94_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+}
+.comp92_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp90_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  align-items: flex-start !important;
+}
+.comp95_class {
+  width: 36rpx !important;
+  height: 36rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 0rpx 0rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/FpilRP1Pfd4v4tPOIjVnspvcxlhK") !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+}
+.comp89_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 0rpx 24rpx 0rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  border-color: rgba(238, 238, 238, 1) !important;
+  border-width: 2rpx !important;
+  border-style: none none solid none !important;
+  align-items: center !important;
+}
+.comp88_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 0rpx 24rpx 0rpx 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp99_class {
+  width: 80rpx !important;
+  height: 80rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/Fgwt33VYx49FzZYv8HDuj5OrkTD2") !important;
+  border-radius: 8rpx 8rpx 8rpx 8rpx !important;
+}
+.comp101_class {
+  display: inline !important;
+  line-height: 50rpx !important;
+  font-size: 34rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 0rpx 8rpx 0rpx !important;
+}
+.comp102_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+}
+.comp100_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp98_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  align-items: flex-start !important;
+}
+.comp103_class {
+  width: 36rpx !important;
+  height: 36rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 0rpx 0rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/FpilRP1Pfd4v4tPOIjVnspvcxlhK") !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+}
+.comp97_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 0rpx 24rpx 0rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  border-color: rgba(238, 238, 238, 1) !important;
+  border-width: 2rpx !important;
+  border-style: none none solid none !important;
+  align-items: center !important;
+}
+.comp96_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 0rpx 24rpx 0rpx 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp72_class {
+  width: 100% !important;
+  height: fit-content !important;
+  display: none !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(255, 255, 255, 1) !important;
+}
+.comp64_class {
+  width: 100% !important;
+  height: fit-content !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(255, 255, 255, 1) !important;
+}
+.comp131_class {
+  width: 80rpx !important;
+  height: 80rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/Fgwt33VYx49FzZYv8HDuj5OrkTD2") !important;
+  border-radius: 8rpx 8rpx 8rpx 8rpx !important;
+}
+.comp133_class {
+  display: inline !important;
+  line-height: 50rpx !important;
+  font-size: 34rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 0rpx 8rpx 0rpx !important;
+}
+.comp134_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+}
+.comp132_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp130_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  align-items: flex-start !important;
+}
+.comp135_class {
+  width: 36rpx !important;
+  height: 36rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 0rpx 0rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/FpilRP1Pfd4v4tPOIjVnspvcxlhK") !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+}
+.comp129_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 0rpx 24rpx 0rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  border-color: rgba(238, 238, 238, 1) !important;
+  border-width: 2rpx !important;
+  border-style: none none solid none !important;
+  align-items: center !important;
+}
+.comp128_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 0rpx 24rpx 0rpx 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp139_class {
+  width: 80rpx !important;
+  height: 80rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/Fgwt33VYx49FzZYv8HDuj5OrkTD2") !important;
+  border-radius: 8rpx 8rpx 8rpx 8rpx !important;
+}
+.comp141_class {
+  display: inline !important;
+  line-height: 50rpx !important;
+  font-size: 34rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 0rpx 8rpx 0rpx !important;
+}
+.comp142_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+}
+.comp140_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp138_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  align-items: flex-start !important;
+}
+.comp143_class {
+  width: 36rpx !important;
+  height: 36rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 0rpx 0rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/FpilRP1Pfd4v4tPOIjVnspvcxlhK") !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+}
+.comp137_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 0rpx 24rpx 0rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  border-color: rgba(238, 238, 238, 1) !important;
+  border-width: 2rpx !important;
+  border-style: none none solid none !important;
+  align-items: center !important;
+}
+.comp136_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 0rpx 24rpx 0rpx 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp147_class {
+  width: 80rpx !important;
+  height: 80rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/Fgwt33VYx49FzZYv8HDuj5OrkTD2") !important;
+  border-radius: 8rpx 8rpx 8rpx 8rpx !important;
+}
+.comp149_class {
+  display: inline !important;
+  line-height: 50rpx !important;
+  font-size: 34rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 0rpx 8rpx 0rpx !important;
+}
+.comp150_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+}
+.comp148_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp146_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  align-items: flex-start !important;
+}
+.comp151_class {
+  width: 36rpx !important;
+  height: 36rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 0rpx 0rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/FpilRP1Pfd4v4tPOIjVnspvcxlhK") !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+}
+.comp145_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 0rpx 24rpx 0rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  border-color: rgba(238, 238, 238, 1) !important;
+  border-width: 2rpx !important;
+  border-style: none none solid none !important;
+  align-items: center !important;
+}
+.comp144_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 0rpx 24rpx 0rpx 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp120_class {
+  width: 100% !important;
+  height: fit-content !important;
+  display: none !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(255, 255, 255, 1) !important;
+}
+.comp112_class {
+  width: 100% !important;
+  height: fit-content !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(255, 255, 255, 1) !important;
+}
+.comp161_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 0rpx 24rpx 0rpx 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp179_class {
+  width: 80rpx !important;
+  height: 80rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/Fgwt33VYx49FzZYv8HDuj5OrkTD2") !important;
+  border-radius: 8rpx 8rpx 8rpx 8rpx !important;
+}
+.comp181_class {
+  display: inline !important;
+  line-height: 50rpx !important;
+  font-size: 34rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 0rpx 8rpx 0rpx !important;
+}
+.comp182_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+}
+.comp180_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp178_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  align-items: flex-start !important;
+}
+.comp183_class {
+  width: 36rpx !important;
+  height: 36rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 0rpx 0rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/FpilRP1Pfd4v4tPOIjVnspvcxlhK") !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+}
+.comp177_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 0rpx 24rpx 0rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  border-color: rgba(238, 238, 238, 1) !important;
+  border-width: 2rpx !important;
+  border-style: none none solid none !important;
+  align-items: center !important;
+}
+.comp176_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 0rpx 24rpx 0rpx 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp187_class {
+  width: 80rpx !important;
+  height: 80rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/Fgwt33VYx49FzZYv8HDuj5OrkTD2") !important;
+  border-radius: 8rpx 8rpx 8rpx 8rpx !important;
+}
+.comp189_class {
+  display: inline !important;
+  line-height: 50rpx !important;
+  font-size: 34rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 0rpx 8rpx 0rpx !important;
+}
+.comp190_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+}
+.comp188_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp186_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  align-items: flex-start !important;
+}
+.comp191_class {
+  width: 36rpx !important;
+  height: 36rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 0rpx 0rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/FpilRP1Pfd4v4tPOIjVnspvcxlhK") !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+}
+.comp185_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 0rpx 24rpx 0rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  border-color: rgba(238, 238, 238, 1) !important;
+  border-width: 2rpx !important;
+  border-style: none none solid none !important;
+  align-items: center !important;
+}
+.comp184_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 0rpx 24rpx 0rpx 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp195_class {
+  width: 80rpx !important;
+  height: 80rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/Fgwt33VYx49FzZYv8HDuj5OrkTD2") !important;
+  border-radius: 8rpx 8rpx 8rpx 8rpx !important;
+}
+.comp197_class {
+  display: inline !important;
+  line-height: 50rpx !important;
+  font-size: 34rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 0rpx 8rpx 0rpx !important;
+}
+.comp198_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+}
+.comp196_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp194_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  align-items: flex-start !important;
+}
+.comp199_class {
+  width: 36rpx !important;
+  height: 36rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 0rpx 0rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/FpilRP1Pfd4v4tPOIjVnspvcxlhK") !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+}
+.comp193_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 0rpx 24rpx 0rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  border-color: rgba(238, 238, 238, 1) !important;
+  border-width: 2rpx !important;
+  border-style: none none solid none !important;
+  align-items: center !important;
+}
+.comp192_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 0rpx 24rpx 0rpx 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp168_class {
+  width: 100% !important;
+  height: fit-content !important;
+  display: none !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(255, 255, 255, 1) !important;
+}
+.comp160_class {
+  width: 100% !important;
+  height: fit-content !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(255, 255, 255, 1) !important;
+}
+.comp209_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 0rpx 24rpx 0rpx 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp227_class {
+  width: 80rpx !important;
+  height: 80rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/Fgwt33VYx49FzZYv8HDuj5OrkTD2") !important;
+  border-radius: 8rpx 8rpx 8rpx 8rpx !important;
+}
+.comp229_class {
+  display: inline !important;
+  line-height: 50rpx !important;
+  font-size: 34rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 0rpx 8rpx 0rpx !important;
+}
+.comp230_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+}
+.comp228_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp226_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  align-items: flex-start !important;
+}
+.comp231_class {
+  width: 36rpx !important;
+  height: 36rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 0rpx 0rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/FpilRP1Pfd4v4tPOIjVnspvcxlhK") !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+}
+.comp225_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 0rpx 24rpx 0rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  border-color: rgba(238, 238, 238, 1) !important;
+  border-width: 2rpx !important;
+  border-style: none none solid none !important;
+  align-items: center !important;
+}
+.comp224_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 0rpx 24rpx 0rpx 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp235_class {
+  width: 80rpx !important;
+  height: 80rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/Fgwt33VYx49FzZYv8HDuj5OrkTD2") !important;
+  border-radius: 8rpx 8rpx 8rpx 8rpx !important;
+}
+.comp237_class {
+  display: inline !important;
+  line-height: 50rpx !important;
+  font-size: 34rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 0rpx 8rpx 0rpx !important;
+}
+.comp238_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+}
+.comp236_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp234_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  align-items: flex-start !important;
+}
+.comp239_class {
+  width: 36rpx !important;
+  height: 36rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 0rpx 0rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/FpilRP1Pfd4v4tPOIjVnspvcxlhK") !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+}
+.comp233_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 0rpx 24rpx 0rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  border-color: rgba(238, 238, 238, 1) !important;
+  border-width: 2rpx !important;
+  border-style: none none solid none !important;
+  align-items: center !important;
+}
+.comp232_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 0rpx 24rpx 0rpx 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp243_class {
+  width: 80rpx !important;
+  height: 80rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/Fgwt33VYx49FzZYv8HDuj5OrkTD2") !important;
+  border-radius: 8rpx 8rpx 8rpx 8rpx !important;
+}
+.comp245_class {
+  display: inline !important;
+  line-height: 50rpx !important;
+  font-size: 34rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 0rpx 8rpx 0rpx !important;
+}
+.comp246_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+}
+.comp244_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp242_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  align-items: flex-start !important;
+}
+.comp247_class {
+  width: 36rpx !important;
+  height: 36rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 0rpx 0rpx 0rpx 0rpx !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/FpilRP1Pfd4v4tPOIjVnspvcxlhK") !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+}
+.comp241_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 0rpx 24rpx 0rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  border-color: rgba(238, 238, 238, 1) !important;
+  border-width: 2rpx !important;
+  border-style: none none solid none !important;
+  align-items: center !important;
+}
+.comp240_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 0rpx 24rpx 0rpx 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp216_class {
+  width: 100% !important;
+  height: fit-content !important;
+  display: none !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(255, 255, 255, 1) !important;
+}
+.comp208_class {
+  width: 100% !important;
+  height: fit-content !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(255, 255, 255, 1) !important;
+}
+.comp6_class {
+  width: 100% !important;
+  height: fit-content !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp5_class {
+  width: 100% !important;
+  height: 100% !important;
+}
+.comp4_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  background-color: rgba(255, 255, 255, 1) !important;
+}
+.comp2_class {
+  width: 100% !important;
+  height: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp0_class {
+  width: 100% !important;
+  height: 100% !important;
+  overflow: hidden !important;
+}

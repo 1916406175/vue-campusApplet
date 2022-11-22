@@ -1,0 +1,192 @@
+<view class="comp0_class">
+  <view class="comp2_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view class="comp3_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+      <view class="comp37_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+        <x-text class="comp6_class" user-select="{{false}}" decode="{{false}}">事项</x-text>
+        <picker class="comp34_class" mode="multiSelector" disabled="{{false}}" range="{{comp34_range}}" value="{{comp34_value}}">
+          <x-view class="comp35_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp36_class" user-select="{{false}}" decode="{{false}}">选择器</x-text></x-view></picker
+        ></view
+      >
+      <view class="comp39_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+        <x-text class="comp40_class" user-select="{{false}}" decode="{{false}}">事项</x-text>
+        <picker class="comp41_class" mode="multiSelector" disabled="{{false}}" range="{{comp41_range}}" value="{{comp41_value}}">
+          <x-view class="comp42_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp43_class" user-select="{{false}}" decode="{{false}}">全部</x-text></x-view></picker
+        ></view
+      ></view
+    >
+    <view class="comp44_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+      <view class="comp71_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+        <view class="comp46_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <view class="comp48_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <x-text class="comp49_class" user-select="{{false}}" decode="{{false}}">访客预约</x-text>
+            <x-text class="comp50_class" user-select="{{false}}" decode="{{false}}">2022-05-10</x-text></view
+          >
+          <view class="comp52_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <x-text class="comp53_class" user-select="{{false}}" decode="{{false}}">企业名称：</x-text>
+            <x-text class="comp54_class" user-select="{{false}}" decode="{{false}}">文本</x-text></view
+          >
+          <view class="comp58_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <x-text class="comp59_class" user-select="{{false}}" decode="{{false}}">联系信息：</x-text>
+            <x-text class="comp60_class" user-select="{{false}}" decode="{{false}}">李四</x-text>
+            <x-text class="comp68_class" user-select="{{false}}" decode="{{false}}">/</x-text>
+            <x-text class="comp67_class" user-select="{{false}}" decode="{{false}}">15037268896</x-text></view
+          >
+          <view class="comp61_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <x-text class="comp62_class" user-select="{{false}}" decode="{{false}}">来访人数：</x-text>
+            <x-text class="comp63_class" user-select="{{false}}" decode="{{false}}">12</x-text>
+            <x-text class="comp69_class" user-select="{{false}}" decode="{{false}}">人</x-text></view
+          >
+          <view class="comp64_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <x-text class="comp65_class" user-select="{{false}}" decode="{{false}}">到访日期：</x-text>
+            <x-text class="comp66_class" user-select="{{false}}" decode="{{false}}">2022-05-12</x-text></view
+          ></view
+        >
+        <view class="comp47_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <view class="comp70_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp74_class" user-select="{{false}}" decode="{{false}}">待审核</x-text></view></view
+        ></view
+      >
+      <view class="comp73_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+        <view class="comp75_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp77_class" user-select="{{false}}" decode="{{false}}">通过（圆区人员时展示）</x-text></view>
+        <view class="comp76_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp78_class" user-select="{{false}}" decode="{{false}}">拒绝（圆区人员时展示）</x-text></view></view
+      >
+      <view class="comp72_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp79_class" user-select="{{false}}" decode="{{false}}">撤回（发起人时展示）</x-text></view></view
+    >
+    <view class="comp112_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+      <view class="comp113_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+        <view class="comp114_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <view class="comp115_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <x-text class="comp116_class" user-select="{{false}}" decode="{{false}}">访客预约</x-text>
+            <x-text class="comp117_class" user-select="{{false}}" decode="{{false}}">2022-05-10</x-text></view
+          >
+          <view class="comp119_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <x-text class="comp120_class" user-select="{{false}}" decode="{{false}}">企业名称：</x-text>
+            <x-text class="comp121_class" user-select="{{false}}" decode="{{false}}">文本</x-text></view
+          >
+          <view class="comp122_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <x-text class="comp123_class" user-select="{{false}}" decode="{{false}}">联系信息：</x-text>
+            <x-text class="comp124_class" user-select="{{false}}" decode="{{false}}">李四</x-text>
+            <x-text class="comp125_class" user-select="{{false}}" decode="{{false}}">/</x-text>
+            <x-text class="comp126_class" user-select="{{false}}" decode="{{false}}">15037268896</x-text></view
+          >
+          <view class="comp127_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <x-text class="comp128_class" user-select="{{false}}" decode="{{false}}">来访人数：</x-text>
+            <x-text class="comp129_class" user-select="{{false}}" decode="{{false}}">12</x-text>
+            <x-text class="comp130_class" user-select="{{false}}" decode="{{false}}">人</x-text></view
+          >
+          <view class="comp131_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <x-text class="comp132_class" user-select="{{false}}" decode="{{false}}">到访日期：</x-text>
+            <x-text class="comp133_class" user-select="{{false}}" decode="{{false}}">2022-05-12</x-text></view
+          >
+          <view class="comp144_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <x-text class="comp145_class" user-select="{{false}}" decode="{{false}}">拒绝原因：</x-text>
+            <x-text class="comp146_class" user-select="{{false}}" decode="{{false}}">疫情原因，暂不接待客户</x-text></view
+          ></view
+        >
+        <view class="comp134_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <view class="comp135_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp136_class" user-select="{{false}}" decode="{{false}}">拒绝</x-text></view></view
+        ></view
+      ></view
+    >
+    <view class="comp80_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+      <view class="comp81_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+        <view class="comp82_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <view class="comp83_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <x-text class="comp84_class" user-select="{{false}}" decode="{{false}}">项目申请</x-text>
+            <x-text class="comp85_class" user-select="{{false}}" decode="{{false}}">2022-05-10</x-text></view
+          >
+          <view class="comp87_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <x-text class="comp88_class" user-select="{{false}}" decode="{{false}}">项目编号：</x-text>
+            <x-text class="comp89_class" user-select="{{false}}" decode="{{false}}">文本</x-text></view
+          >
+          <view class="comp263_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <x-text class="comp264_class" user-select="{{false}}" decode="{{false}}">项目名称：</x-text>
+            <x-text class="comp265_class" user-select="{{false}}" decode="{{false}}">招商项目</x-text></view
+          >
+          <view class="comp266_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <x-text class="comp267_class" user-select="{{false}}" decode="{{false}}">统一社会信用代码：</x-text>
+            <x-text class="comp268_class" user-select="{{false}}" decode="{{false}}">4318481876</x-text></view
+          >
+          <view class="comp95_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <x-text class="comp96_class" user-select="{{false}}" decode="{{false}}">企业名称：</x-text>
+            <x-text class="comp97_class" user-select="{{false}}" decode="{{false}}">李四</x-text>
+            <x-text class="comp98_class" user-select="{{false}}" decode="{{false}}">的公司</x-text></view
+          >
+          <view class="comp90_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <x-text class="comp91_class" user-select="{{false}}" decode="{{false}}">联系信息：</x-text>
+            <x-text class="comp92_class" user-select="{{false}}" decode="{{false}}">李四</x-text>
+            <x-text class="comp93_class" user-select="{{false}}" decode="{{false}}">/</x-text>
+            <x-text class="comp94_class" user-select="{{false}}" decode="{{false}}">15037268896</x-text></view
+          >
+          <view class="comp148_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <x-text class="comp149_class" user-select="{{false}}" decode="{{false}}">拒绝原因：</x-text>
+            <x-text class="comp150_class" user-select="{{false}}" decode="{{false}}">能力不付</x-text></view
+          ></view
+        >
+        <view class="comp102_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <view class="comp103_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp104_class" user-select="{{false}}" decode="{{false}}">拒绝</x-text></view></view
+        ></view
+      >
+      <view class="comp151_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+        <view class="comp152_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <view class="comp153_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <view class="comp154_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <x-text class="comp155_class" user-select="{{false}}" decode="{{false}}">企业申请</x-text>
+              <x-text class="comp156_class" user-select="{{false}}" decode="{{false}}">2022-05-10</x-text></view
+            >
+            <view class="comp269_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <x-text class="comp270_class" user-select="{{false}}" decode="{{false}}">统一社会信用代码：</x-text>
+              <x-text class="comp271_class" user-select="{{false}}" decode="{{false}}">4318481876</x-text></view
+            >
+            <view class="comp158_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <x-text class="comp159_class" user-select="{{false}}" decode="{{false}}">企业名称：</x-text>
+              <x-text class="comp160_class" user-select="{{false}}" decode="{{false}}">李四的公司</x-text></view
+            >
+            <view class="comp161_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <x-text class="comp162_class" user-select="{{false}}" decode="{{false}}">联系信息：</x-text>
+              <x-text class="comp163_class" user-select="{{false}}" decode="{{false}}">李四</x-text>
+              <x-text class="comp164_class" user-select="{{false}}" decode="{{false}}">/</x-text>
+              <x-text class="comp165_class" user-select="{{false}}" decode="{{false}}">15037268896</x-text></view
+            >
+            <view class="comp166_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <x-text class="comp167_class" user-select="{{false}}" decode="{{false}}">机构类型：</x-text>
+              <x-text class="comp168_class" user-select="{{false}}" decode="{{false}}">科研机构</x-text>
+              <x-text class="comp169_class" user-select="{{false}}" decode="{{false}}">人</x-text></view
+            ></view
+          >
+          <view class="comp176_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <view class="comp221_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp222_class" user-select="{{false}}" decode="{{false}}">待审核</x-text></view></view
+          ></view
+        >
+        <view class="comp179_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <view class="comp180_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp181_class" user-select="{{false}}" decode="{{false}}">通过（同区人员时展示）</x-text></view>
+          <view class="comp182_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp183_class" user-select="{{false}}" decode="{{false}}">拒绝（同区人员时展示）</x-text></view></view
+        >
+        <view class="comp184_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp185_class" user-select="{{false}}" decode="{{false}}">撤回（发起人时展示）</x-text></view></view
+      >
+      <view class="comp223_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+        <view class="comp224_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <view class="comp225_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <view class="comp226_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <x-text class="comp227_class" user-select="{{false}}" decode="{{false}}">企业申请</x-text>
+              <x-text class="comp228_class" user-select="{{false}}" decode="{{false}}">2022-05-10</x-text></view
+            >
+            <view class="comp233_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <x-text class="comp234_class" user-select="{{false}}" decode="{{false}}">联系信息：</x-text>
+              <x-text class="comp235_class" user-select="{{false}}" decode="{{false}}">李四</x-text>
+              <x-text class="comp236_class" user-select="{{false}}" decode="{{false}}">/</x-text>
+              <x-text class="comp237_class" user-select="{{false}}" decode="{{false}}">15037268896</x-text></view
+            ></view
+          >
+          <view class="comp248_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <view class="comp251_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp252_class" user-select="{{false}}" decode="{{false}}">待审核</x-text></view></view
+          ></view
+        >
+        <view class="comp253_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <view class="comp254_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp255_class" user-select="{{false}}" decode="{{false}}">通过（同区人员时展示）</x-text></view>
+          <view class="comp256_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp257_class" user-select="{{false}}" decode="{{false}}">拒绝（同区人员时展示）</x-text></view></view
+        >
+        <view class="comp258_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp259_class" user-select="{{false}}" decode="{{false}}">撤回（发起人时展示）</x-text></view></view
+      ></view
+    ></view
+  ></view
+>

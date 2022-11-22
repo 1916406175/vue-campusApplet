@@ -1,0 +1,780 @@
+.comp0_class {
+  font-family: "Chinese Quote", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue",
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  line-height: 1.5;
+}
+view,
+movable-area,
+movable-view,
+scroll-view,
+swiper,
+swiper-item,
+view,
+progress,
+icon,
+rich-text,
+text,
+button,
+checkbox,
+checkbox-group,
+form,
+input,
+label,
+picker,
+picker-view,
+picker-view-column,
+radio,
+radio-group,
+slider,
+switch,
+navigator,
+image {
+  box-sizing: border-box;
+}
+page {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+switch .wx-switch-input {
+  margin-right: 0;
+}
+checkbox .wx-checkbox-input {
+  margin-right: 0;
+}
+radio .wx-radio-input {
+  margin-right: 0;
+}
+.input-placeholder {
+  color: #cccccc;
+}
+.textarea-placeholder {
+  color: #cccccc;
+}
+
+.comp273_class {
+  display: inline !important;
+  line-height: 44rpx !important;
+  font-size: 30rpx !important;
+  color: rgba(51, 51, 51, 1) !important;
+}
+.comp272_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 0 !important;
+  align-items: center !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+}
+.comp588_class {
+  display: inline !important;
+  line-height: 44rpx !important;
+  color: #333333 !important;
+  font-size: 30rpx !important;
+}
+.comp587_class {
+  width: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  flex-direction: row !important;
+  font-size: 32rpx !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  row-gap: 0rpx !important;
+  flex-grow: 0 !important;
+  flex-shrink: 1 !important;
+  column-gap: 0rpx !important;
+}
+.comp274_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  justify-content: flex-end !important;
+  align-items: center !important;
+}
+.comp271_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 0rpx 24rpx 0rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  border-style: none none solid none !important;
+  border-width: 2rpx !important;
+  border-color: rgba(238, 238, 238, 1) !important;
+}
+.comp289_class {
+  display: inline !important;
+  line-height: 44rpx !important;
+  font-size: 30rpx !important;
+  color: rgba(51, 51, 51, 1) !important;
+}
+.comp288_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 0 !important;
+  align-items: center !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+}
+.comp290_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  justify-content: flex-end !important;
+  align-items: center !important;
+}
+.comp478_class {
+  text-align: right !important;
+}
+.comp287_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 0rpx 24rpx 0rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  border-style: none none solid none !important;
+  border-width: 2rpx !important;
+  border-color: rgba(238, 238, 238, 1) !important;
+}
+.comp295_class {
+  display: inline !important;
+  line-height: 44rpx !important;
+  font-size: 30rpx !important;
+  color: rgba(51, 51, 51, 1) !important;
+}
+.comp294_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 0 !important;
+  align-items: center !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+}
+.comp479_class {
+  text-align: right !important;
+}
+.comp296_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  justify-content: flex-end !important;
+  align-items: center !important;
+}
+.comp293_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 0rpx 24rpx 0rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  border-style: none none solid none !important;
+  border-width: 2rpx !important;
+  border-color: rgba(238, 238, 238, 1) !important;
+}
+.comp301_class {
+  display: inline !important;
+  line-height: 44rpx !important;
+  font-size: 30rpx !important;
+  color: rgba(51, 51, 51, 1) !important;
+}
+.comp300_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 0 !important;
+  align-items: center !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+}
+.comp302_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  justify-content: flex-end !important;
+  align-items: center !important;
+}
+.comp480_class {
+  text-align: right !important;
+}
+.comp299_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 0rpx 24rpx 0rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  border-style: none none solid none !important;
+  border-width: 2rpx !important;
+  border-color: rgba(238, 238, 238, 1) !important;
+}
+.comp307_class {
+  display: inline !important;
+  line-height: 44rpx !important;
+  font-size: 30rpx !important;
+  color: rgba(51, 51, 51, 1) !important;
+}
+.comp306_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 0 !important;
+  align-items: center !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+}
+.comp309_class {
+  display: inline !important;
+  line-height: 44rpx !important;
+  font-size: 30rpx !important;
+  color: rgba(204, 204, 204, 1) !important;
+}
+.comp308_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  justify-content: flex-end !important;
+  align-items: center !important;
+}
+.comp305_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 0rpx 24rpx 0rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  border-style: none none solid none !important;
+  border-width: 2rpx !important;
+  border-color: rgba(238, 238, 238, 1) !important;
+}
+.comp270_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 0rpx 24rpx 0rpx 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(255, 255, 255, 1) !important;
+  margin: 0rpx 0rpx 48rpx 0rpx !important;
+}
+.comp313_class {
+  display: inline-flex !important;
+  margin: 0 0 0 0 !important;
+  vertical-align: top !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 100% !important;
+  height: 88rpx !important;
+  line-height: 48rpx !important;
+  font-size: 32rpx !important;
+  font-weight: normal !important;
+  color: rgba(255, 255, 255, 1) !important;
+  border-radius: 88rpx 88rpx 88rpx 88rpx !important;
+  background-color: rgba(72, 138, 139, 1) !important;
+}
+.comp312_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 0rpx 24rpx 0rpx 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp85_class {
+  width: 100% !important;
+  height: 2000rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp17_class {
+  width: 100% !important;
+  height: 100% !important;
+}
+.comp4_class {
+  width: 100% !important;
+  height: calc(100% - 88rpx) !important;
+}
+.comp151_class {
+  width: 320rpx !important;
+  height: 320rpx !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/FgNzgwjJbxNWDmkLdIh27m8ZvWO7") !important;
+  align-items: center !important;
+  justify-content: center !important;
+  margin: 0rpx 0rpx 36rpx 0rpx !important;
+}
+.comp153_class {
+  display: -webkit-inline-box !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+  text-align: center !important;
+  -webkit-line-clamp: 1 !important;
+  -webkit-box-orient: vertical !important;
+  overflow: hidden !important;
+}
+.comp150_class {
+  width: fit-content !important;
+  height: fit-content !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 0rpx 0rpx 0rpx 0rpx !important;
+}
+.comp149_class {
+  width: 100% !important;
+  height: fit-content !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-wrap: wrap !important;
+  align-items: flex-start !important;
+  justify-content: center !important;
+  padding: 128rpx 0rpx 128rpx 0rpx !important;
+}
+.comp376_class {
+  display: inline !important;
+  line-height: 44rpx !important;
+  font-size: 30rpx !important;
+  color: rgba(51, 51, 51, 1) !important;
+  font-weight: bold !important;
+  margin: 0rpx 16rpx 0rpx 0rpx !important;
+}
+.comp379_class {
+  display: inline !important;
+  line-height: 36rpx !important;
+  font-size: 24rpx !important;
+  color: rgba(45, 140, 240, 1) !important;
+}
+.comp378_class {
+  width: fit-content !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  padding: 0rpx 8rpx 0rpx 8rpx !important;
+  background-color: rgba(245, 245, 245, 1) !important;
+  border-radius: 4rpx 4rpx 4rpx 4rpx !important;
+  justify-content: center !important;
+  align-items: center !important;
+  border-color: rgba(245, 245, 245, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp377_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp375_class {
+  width: fit-content !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  align-items: center !important;
+}
+.comp384_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+}
+.comp374_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  margin: 0rpx 0rpx 16rpx 0rpx !important;
+}
+.comp387_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+}
+.comp389_class {
+  display: -webkit-inline-box !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(51, 51, 51, 1) !important;
+  text-align: left !important;
+  -webkit-line-clamp: 1 !important;
+  -webkit-box-orient: vertical !important;
+  overflow: hidden !important;
+}
+.comp388_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: flex-end !important;
+  flex-grow: 1 !important;
+  flex-wrap: wrap !important;
+}
+.comp386_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  padding: 16rpx 0rpx 16rpx 0rpx !important;
+}
+.comp391_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+}
+.comp392_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(51, 51, 51, 1) !important;
+}
+.comp390_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  padding: 16rpx 0rpx 16rpx 0rpx !important;
+}
+.comp394_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+}
+.comp395_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(51, 51, 51, 1) !important;
+}
+.comp393_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  padding: 16rpx 0rpx 16rpx 0rpx !important;
+}
+.comp397_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+}
+.comp398_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(51, 51, 51, 1) !important;
+}
+.comp396_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  padding: 16rpx 0rpx 16rpx 0rpx !important;
+}
+.comp385_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp704_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+}
+.comp706_class {
+  display: inline !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(51, 51, 51, 1) !important;
+}
+.comp705_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  justify-content: flex-end !important;
+}
+.comp703_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  padding: 16rpx 0rpx 16rpx 0rpx !important;
+}
+.comp708_class {
+  display: unset !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+  vertical-align: top !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: auto !important;
+  font-size: 26rpx !important;
+  line-height: 68rpx !important;
+  font-weight: normal !important;
+  padding: 0rpx 48rpx 0rpx 48rpx !important;
+  border-radius: 160rpx 160rpx 160rpx 160rpx !important;
+  background-color: rgba(255, 255, 255, 1) !important;
+  color: rgba(51, 51, 51, 1) !important;
+  border-width: 2rpx !important;
+  border-color: rgba(221, 221, 221, 1) !important;
+  border-style: solid solid solid solid !important;
+}
+.comp707_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 0rpx 0rpx 0rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 8rpx 0rpx 0rpx 0rpx !important;
+  border-color: rgba(238, 238, 238, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid none none none !important;
+  justify-content: flex-end !important;
+}
+.comp373_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(255, 255, 255, 1) !important;
+  border-radius: 16rpx 16rpx 16rpx 16rpx !important;
+  margin: 0rpx 0rpx 48rpx 0rpx !important;
+  border-style: solid solid solid solid !important;
+  border-color: rgba(245, 245, 245, 1) !important;
+  border-width: 2rpx !important;
+}
+.comp336_class {
+  width: 100% !important;
+  height: fit-content !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp148_class {
+  width: 100% !important;
+  height: fit-content !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp147_class {
+  width: 100% !important;
+  height: 100% !important;
+}
+.comp6_class {
+  width: 100% !important;
+  height: calc(100% - 88rpx) !important;
+}
+.comp3_class {
+  height: 100% !important;
+  width: 100% !important;
+}
+.comp2_class {
+  width: 100% !important;
+  height: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(245, 245, 245, 1) !important;
+}
+.comp0_class {
+  width: 100% !important;
+  height: 100% !important;
+  overflow: hidden !important;
+}

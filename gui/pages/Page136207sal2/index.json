@@ -1,0 +1,12 @@
+{
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "navigationStyle": "default",
+  "navigationBarTitleText": "园区项目",
+  "usingComponents": {
+    "van-dropdown-item": "@wxmp/vant/dropdown-item",
+    "van-dropdown-menu": "@wxmp/vant/dropdown-menu",
+    "t-tab-panel": "@wxmp/tdesign/tabs/tab-panel",
+    "t-tabs": "@wxmp/tdesign/tabs/tabs"
+  }
+}

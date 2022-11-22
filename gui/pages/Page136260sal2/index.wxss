@@ -1,0 +1,375 @@
+.comp0_class {
+  font-family: "Chinese Quote", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue",
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  line-height: 1.5;
+}
+view,
+movable-area,
+movable-view,
+scroll-view,
+swiper,
+swiper-item,
+view,
+progress,
+icon,
+rich-text,
+text,
+button,
+checkbox,
+checkbox-group,
+form,
+input,
+label,
+picker,
+picker-view,
+picker-view-column,
+radio,
+radio-group,
+slider,
+switch,
+navigator,
+image {
+  box-sizing: border-box;
+}
+page {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+switch .wx-switch-input {
+  margin-right: 0;
+}
+checkbox .wx-checkbox-input {
+  margin-right: 0;
+}
+radio .wx-radio-input {
+  margin-right: 0;
+}
+.input-placeholder {
+  color: #cccccc;
+}
+.textarea-placeholder {
+  color: #cccccc;
+}
+
+.comp55_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp5_class {
+  display: inline !important;
+  line-height: 44rpx !important;
+  font-size: 30rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+  width: auto !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+}
+.comp6_class {
+  display: inline !important;
+  line-height: 44rpx !important;
+  font-size: 30rpx !important;
+  color: #333333 !important;
+}
+.comp4_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+}
+.comp8_class {
+  display: inline !important;
+  line-height: 44rpx !important;
+  font-size: 30rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+  width: auto !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+}
+.comp9_class {
+  display: inline !important;
+  line-height: 44rpx !important;
+  font-size: 30rpx !important;
+  color: #333333 !important;
+}
+.comp7_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+}
+.comp11_class {
+  display: inline !important;
+  line-height: 44rpx !important;
+  font-size: 30rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+  width: auto !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+}
+.comp12_class {
+  display: inline !important;
+  line-height: 44rpx !important;
+  font-size: 30rpx !important;
+  color: #333333 !important;
+}
+.comp23_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  justify-content: flex-end !important;
+}
+.comp10_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+}
+.comp14_class {
+  display: inline !important;
+  line-height: 44rpx !important;
+  font-size: 30rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+  width: auto !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+}
+.comp37_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp15_class {
+  display: inline !important;
+  line-height: 44rpx !important;
+  font-size: 30rpx !important;
+  color: #333333 !important;
+}
+.comp36_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 1 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  justify-content: flex-end !important;
+}
+.comp13_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+}
+.comp17_class {
+  display: inline !important;
+  line-height: 44rpx !important;
+  font-size: 30rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+  width: auto !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+}
+.comp41_class {
+  display: inline !important;
+  line-height: 36rpx !important;
+  font-size: 24rpx !important;
+  color: rgba(0, 181, 120, 1) !important;
+}
+.comp40_class {
+  width: fit-content !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  padding: 0rpx 8rpx 0rpx 8rpx !important;
+  background-color: rgba(255, 255, 255, 1) !important;
+  border-radius: 4rpx 4rpx 4rpx 4rpx !important;
+  justify-content: center !important;
+  align-items: center !important;
+  border-color: rgba(238, 238, 238, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp43_class {
+  display: inline !important;
+  line-height: 36rpx !important;
+  font-size: 24rpx !important;
+  color: rgba(255, 59, 48, 1) !important;
+}
+.comp42_class {
+  width: fit-content !important;
+  height: auto !important;
+  display: none !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  padding: 0rpx 8rpx 0rpx 8rpx !important;
+  background-color: rgba(255, 238, 239, 1) !important;
+  border-radius: 4rpx 4rpx 4rpx 4rpx !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.comp39_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp16_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+}
+.comp21_class {
+  display: inline !important;
+  line-height: 44rpx !important;
+  font-size: 30rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+  width: auto !important;
+  margin: 0rpx 24rpx 0rpx 0rpx !important;
+}
+.comp47_class {
+  display: inline !important;
+  line-height: 36rpx !important;
+  font-size: 24rpx !important;
+  color: rgba(51, 51, 51, 1) !important;
+  border-color: rgba(221, 221, 221, 1) !important;
+}
+.comp46_class {
+  width: fit-content !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  padding: 0rpx 8rpx 0rpx 8rpx !important;
+  background-color: rgba(255, 255, 255, 1) !important;
+  border-radius: 4rpx 4rpx 4rpx 4rpx !important;
+  justify-content: center !important;
+  align-items: center !important;
+  border-color: rgba(221, 221, 221, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+  margin: 0rpx 0rpx 0rpx 16rpx !important;
+}
+.comp45_class {
+  width: auto !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp24_class {
+  width: auto !important;
+  height: fit-content !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 1 !important;
+  justify-content: flex-end !important;
+}
+.comp20_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+}
+.comp3_class {
+  width: 100% !important;
+  height: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: auto !important;
+  padding: 0rpx 0rpx 144rpx 0rpx !important;
+  flex-grow: 1 !important;
+}
+.comp2_class {
+  width: 100% !important;
+  height: 100% !important;
+}
+.comp0_class {
+  width: 100% !important;
+  height: 100% !important;
+  overflow: hidden !important;
+}

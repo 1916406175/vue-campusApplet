@@ -1,0 +1,187 @@
+
+    <view
+      
+      class="comp0_class"
+      
+      
+      >
+    <scroll-view
+      
+      class="comp2_class"
+      
+      
+      scroll-x="{{false}}" scroll-y="{{true}}" upper-threshold="{{50}}">
+    <view
+      
+      class="comp3_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp44_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp45_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp69_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp124_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp125_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp126_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">账户</x-text></view>
+    <view
+      
+      class="comp127_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <input
+      
+      class="comp128_class"
+      
+      
+      type="text" password="{{false}}" placeholder="请输入账户" placeholder-class="input-placeholder" disabled="{{false}}" maxlength="{{15}}" cursor-spacing="{{0}}" focus="{{false}}" confirm-type="done" always-embed="{{false}}" confirm-hold="{{false}}" selection-start="{{-1}}" selection-end="{{-1}}" adjust-position="{{true}}" hold-keyboard="{{false}}" value="{{variable_valueOfXInput128}}" bindblur="_method_onBlurOfXInput128"></input></view></view>
+    <view
+      
+      class="comp140_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp141_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp142_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">密码</x-text></view>
+    <view
+      
+      class="comp143_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <input
+      
+      class="comp144_class"
+      
+      
+      type="text" password="{{true}}" placeholder="请输入密码" placeholder-class="input-placeholder" disabled="{{false}}" maxlength="{{15}}" cursor-spacing="{{0}}" focus="{{false}}" confirm-type="done" always-embed="{{false}}" confirm-hold="{{false}}" selection-start="{{-1}}" selection-end="{{-1}}" adjust-position="{{true}}" hold-keyboard="{{false}}" value="{{variable_valueOfXInput144}}" bindblur="_method_onBlurOfXInput144"></input></view></view>
+    <view
+      
+      class="comp134_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp135_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp136_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">验证码</x-text></view>
+    <view
+      
+      class="comp146_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp137_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <input
+      
+      class="comp138_class"
+      
+      
+      type="text" password="{{false}}" placeholder="请输入" placeholder-class="input-placeholder" disabled="{{false}}" maxlength="{{4}}" cursor-spacing="{{0}}" focus="{{false}}" confirm-type="done" always-embed="{{false}}" confirm-hold="{{false}}" selection-start="{{-1}}" selection-end="{{-1}}" adjust-position="{{true}}" hold-keyboard="{{false}}" value="{{variable_valueOfXInput138}}" bindblur="_method_onConfirmOfXInput138"></input></view>
+    <view
+      
+      class="comp148_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp147_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}" bindtap="method_onTapOfXText147">{{ variable_textOfXText147 }}</x-text>
+    <x-text
+      
+      class="comp151_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">(59s)</x-text></view></view></view></view></view></view>
+    <view
+      
+      class="comp78_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <button
+      
+      class="comp80_class"
+      
+      
+      size="diy" type="default" plain="{{false}}" disabled="{{false}}" loading="{{false}}" hover-class="button-hover" hover-stop-propagation="{{false}}" hover-start-time="{{20}}" hover-stay-time="{{70}}" bindtap="method_onTapOfXButton80">确定绑定</button></view>
+    <view
+      
+      class="comp149_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <button
+      
+      class="comp150_class"
+      
+      
+      size="diy" type="default" plain="{{false}}" disabled="{{false}}" loading="{{false}}" hover-class="button-hover" hover-stop-propagation="{{false}}" hover-start-time="{{20}}" hover-stay-time="{{70}}">解除绑定</button></view></view>
+    <view
+      
+      class="comp153_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <button
+      
+      class="comp154_class"
+      
+      
+      size="diy" type="default" plain="{{false}}" disabled="{{false}}" loading="{{false}}" hover-class="button-hover" hover-stop-propagation="{{false}}" hover-start-time="{{20}}" hover-stay-time="{{70}}" bindtap="method_onTapOfXButton154">解除绑定</button></view></scroll-view></view>

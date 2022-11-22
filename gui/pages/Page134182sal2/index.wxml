@@ -1,0 +1,88 @@
+<view class="comp0_class">
+  <view class="comp2_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view class="comp46_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variable_vifOfXView46}}">
+      <view class="comp3_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+        <image class="comp6_class" src="//s2-cdn.oneitfarm.com/FqEjhsttWjWgUQ1ZHdZCehVCwIkY" mode="aspectFit"></image>
+        <view class="comp5_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <x-text class="comp7_class" user-select="{{false}}" decode="{{false}}">这个是一个好名字</x-text>
+          <x-text class="comp8_class" user-select="{{false}}" decode="{{false}}">江苏加工能力有限公司</x-text></view
+        ></view
+      >
+      <view class="comp9_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp10_class" user-select="{{false}}" decode="{{false}}">个人信息</x-text></view>
+      <view class="comp13_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp14_class" user-select="{{false}}" decode="{{false}}">机构信息</x-text></view>
+      <view class="comp15_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp16_class" user-select="{{false}}" decode="{{false}}">我的钱包</x-text></view>
+      <view class="comp17_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp18_class" user-select="{{false}}" decode="{{false}}">我的车辆</x-text></view>
+      <view class="comp19_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp20_class" user-select="{{false}}" decode="{{false}}">绑定园区管理系统账户</x-text></view>
+      <view class="comp21_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp22_class" user-select="{{false}}" decode="{{false}}">在线客服</x-text></view></view
+    >
+    <view class="comp24_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+      <view class="comp25_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+        <view class="comp52_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <x-text class="comp53_class" user-select="{{false}}" decode="{{false}}">*</x-text>
+          <x-text class="comp54_class" user-select="{{false}}" decode="{{false}}">姓名</x-text>
+          <view class="comp55_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view
+        ></view>
+        <view class="comp56_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <x-text class="comp57_class" user-select="{{false}}" decode="{{false}}">*</x-text>
+          <x-text class="comp58_class" user-select="{{false}}" decode="{{false}}">手机号</x-text>
+          <view class="comp59_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp60_class" user-select="{{false}}" decode="{{false}}">自动带出，不可修改</x-text></view></view
+        >
+        <view class="comp61_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <x-text class="comp62_class" user-select="{{false}}" decode="{{false}}">*</x-text>
+          <x-text class="comp63_class" user-select="{{false}}" decode="{{false}}">身份证号</x-text>
+          <view class="comp64_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view
+        ></view>
+        <view class="comp66_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <x-text class="comp67_class" user-select="{{false}}" decode="{{false}}">*</x-text>
+          <x-text class="comp68_class" user-select="{{false}}" decode="{{false}}">电子邮箱</x-text>
+          <view class="comp69_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view
+        ></view>
+        <view class="comp76_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp78_class" user-select="{{false}}" decode="{{false}}">保存</x-text></view></view
+      ></view
+    >
+    <view class="comp81_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+      <view class="comp82_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+        <view class="comp101_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <x-text class="comp102_class" user-select="{{false}}" decode="{{false}}">*</x-text>
+          <x-text class="comp103_class" user-select="{{false}}" decode="{{false}}">机构名称</x-text>
+          <view class="comp104_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view
+        ></view>
+        <view class="comp105_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <x-text class="comp106_class" user-select="{{false}}" decode="{{false}}">*</x-text>
+          <x-text class="comp107_class" user-select="{{false}}" decode="{{false}}">所属部门</x-text>
+          <view class="comp108_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp109_class" user-select="{{false}}" decode="{{false}}">自动带出，不可修改</x-text></view></view
+        >
+        <view class="comp110_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <x-text class="comp111_class" user-select="{{false}}" decode="{{false}}">*</x-text>
+          <x-text class="comp112_class" user-select="{{false}}" decode="{{false}}">职位</x-text>
+          <view class="comp113_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view
+        ></view>
+        <view class="comp125_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp127_class" user-select="{{false}}" decode="{{false}}">撤回申请</x-text></view>
+        <view class="comp132_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp136_class" user-select="{{false}}" decode="{{false}}">修改并保存</x-text></view>
+        <view class="comp134_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp137_class" user-select="{{false}}" decode="{{false}}">解除绑定</x-text></view></view
+      >
+      <view class="comp130_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <image class="comp131_class" src="https://s2-cdn.oneitfarm.com/FrywdutGItybVIL3Jcd5PtFdvmFA" mode="scaleToFill"></image></view
+    ></view>
+    <view class="comp138_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+      <view class="comp139_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+        <view class="comp158_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <x-text class="comp159_class" user-select="{{false}}" decode="{{false}}">*</x-text>
+          <x-text class="comp160_class" user-select="{{false}}" decode="{{false}}">账户</x-text>
+          <view class="comp161_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view
+        ></view>
+        <view class="comp162_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <x-text class="comp163_class" user-select="{{false}}" decode="{{false}}">*</x-text>
+          <x-text class="comp164_class" user-select="{{false}}" decode="{{false}}">密码</x-text>
+          <view class="comp165_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp166_class" user-select="{{false}}" decode="{{false}}">自动带出，不可修改</x-text></view></view
+        >
+        <view class="comp167_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <x-text class="comp168_class" user-select="{{false}}" decode="{{false}}">*</x-text>
+          <x-text class="comp169_class" user-select="{{false}}" decode="{{false}}">验证码</x-text>
+          <view class="comp170_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view
+        ></view>
+        <view class="comp187_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp189_class" user-select="{{false}}" decode="{{false}}">确定绑定</x-text></view>
+        <view class="comp190_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp192_class" user-select="{{false}}" decode="{{false}}">解除绑定</x-text></view></view
+      ></view
+    ></view
+  ></view
+>

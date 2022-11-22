@@ -1,0 +1,20 @@
+<view class="comp0_class">
+  <scroll-view class="comp2_class" scroll-x="{{false}}" scroll-y="{{true}}" upper-threshold="{{50}}">
+    <view class="comp3_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+      <view class="comp6_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+        <view class="comp7_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" bindtap="method_onTapOfXView7">
+          <image class="comp8_class" src="https://s2-cdn.oneitfarm.com/FlPtTJErdbGQ4_ENvPbx1BXyMgJE" mode="aspectFill"></image>
+          <x-text class="comp9_class" user-select="{{false}}" decode="{{false}}">视频监控</x-text></view
+        >
+        <view class="comp10_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <image class="comp11_class" src="https://s2-cdn.oneitfarm.com/FjI85D8hGprys2G6DgwMLCUyAqjh" mode="aspectFill"></image>
+          <x-text class="comp12_class" user-select="{{false}}" decode="{{false}}">智慧门禁</x-text></view
+        >
+        <view class="comp13_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <image class="comp14_class" src="https://s2-cdn.oneitfarm.com/FrDCcc33ysfTu8O69XPV8KLd82R1" mode="aspectFill"></image>
+          <x-text class="comp15_class" user-select="{{false}}" decode="{{false}}">园区车位</x-text></view
+        ></view
+      ></view
+    ></scroll-view
+  ></view
+>

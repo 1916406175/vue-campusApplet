@@ -1,0 +1,169 @@
+
+    <view
+      
+      class="comp0_class"
+      
+      
+      >
+    <scroll-view
+      
+      class="comp2_class"
+      
+      
+      scroll-x="{{false}}" scroll-y="{{true}}" upper-threshold="{{50}}">
+    <view
+      
+      class="comp3_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp44_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp45_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp69_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp124_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp125_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp126_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">姓名</x-text></view>
+    <view
+      
+      class="comp127_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <input
+      
+      class="comp128_class"
+      
+      
+      type="text" password="{{false}}" placeholder-class="input-placeholder" disabled="{{false}}" maxlength="{{140}}" cursor-spacing="{{0}}" focus="{{false}}" confirm-type="done" always-embed="{{false}}" confirm-hold="{{false}}" selection-start="{{-1}}" selection-end="{{-1}}" adjust-position="{{true}}" hold-keyboard="{{false}}" placeholder="{{variable_placeholderOfXInput128}}" bindconfirm="_method_onBlurOfXInput128"></input></view></view>
+    <view
+      
+      class="comp108_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp109_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp110_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">手机号</x-text></view>
+    <view
+      
+      class="comp111_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp112_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">{{ variable_textOfXText112 }}</x-text></view></view>
+    <view
+      
+      class="comp134_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp135_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp136_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">身份证号</x-text></view>
+    <view
+      
+      class="comp137_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <input
+      
+      class="comp138_class"
+      
+      
+      type="text" password="{{false}}" placeholder-class="input-placeholder" disabled="{{false}}" maxlength="{{18}}" cursor-spacing="{{0}}" focus="{{false}}" confirm-type="done" always-embed="{{false}}" confirm-hold="{{false}}" selection-start="{{-1}}" selection-end="{{-1}}" adjust-position="{{true}}" hold-keyboard="{{false}}" placeholder="{{variable_placeholderOfXInput138}}" bindconfirm="_method_onBlurOfXInput138"></input></view></view>
+    <view
+      
+      class="comp139_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view
+      
+      class="comp140_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <x-text
+      
+      class="comp141_class"
+      
+      
+      user-select="{{false}}" decode="{{false}}">电子邮箱</x-text></view>
+    <view
+      
+      class="comp142_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <input
+      
+      class="comp143_class"
+      
+      
+      type="text" password="{{false}}" placeholder-class="input-placeholder" disabled="{{false}}" maxlength="{{140}}" cursor-spacing="{{0}}" focus="{{false}}" confirm-type="done" always-embed="{{false}}" confirm-hold="{{false}}" selection-start="{{-1}}" selection-end="{{-1}}" adjust-position="{{true}}" hold-keyboard="{{false}}" placeholder="{{variable_placeholderOfXInput143}}" bindconfirm="_method_onBlurOfXInput143"></input></view></view></view></view></view>
+    <view
+      
+      class="comp78_class"
+      
+      
+      hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <button
+      
+      class="comp80_class"
+      
+      
+      size="diy" type="default" plain="{{false}}" disabled="{{false}}" loading="{{false}}" hover-class="button-hover" hover-stop-propagation="{{false}}" hover-start-time="{{20}}" hover-stay-time="{{70}}" bindtap="method_onTapOfXButton80">保存</button></view></view></scroll-view></view>

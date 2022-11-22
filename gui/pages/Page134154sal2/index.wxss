@@ -1,0 +1,3778 @@
+.comp0_class {
+  font-family: "Chinese Quote", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue",
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  line-height: 1.5;
+}
+view,
+movable-area,
+movable-view,
+scroll-view,
+swiper,
+swiper-item,
+view,
+progress,
+icon,
+rich-text,
+text,
+button,
+checkbox,
+checkbox-group,
+form,
+input,
+label,
+picker,
+picker-view,
+picker-view-column,
+radio,
+radio-group,
+slider,
+switch,
+navigator,
+image {
+  box-sizing: border-box;
+}
+page {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+switch .wx-switch-input {
+  margin-right: 0;
+}
+checkbox .wx-checkbox-input {
+  margin-right: 0;
+}
+radio .wx-radio-input {
+  margin-right: 0;
+}
+.input-placeholder {
+  color: #cccccc;
+}
+.textarea-placeholder {
+  color: #cccccc;
+}
+
+.comp134_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: rgba(255, 255, 255, 1) !important;
+  font-weight: bold !important;
+}
+.comp133_class {
+  width: 100% !important;
+  height: 100rpx !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(23, 139, 139, 1) !important;
+  justify-content: center !important;
+}
+.comp137_class {
+  width: 100% !important;
+  height: fit-content !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(51, 51, 51, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid none solid none !important;
+}
+.comp142_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp143_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp141_class {
+  height: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  padding: 0rpx 0rpx 0rpx 16rpx !important;
+}
+.comp145_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp146_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp144_class {
+  height: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  padding: 0rpx 16rpx 0rpx 0rpx !important;
+}
+.comp140_class {
+  width: 70% !important;
+  height: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+}
+.comp148_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp149_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp150_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp147_class {
+  height: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 0rpx 16rpx 0rpx 0rpx !important;
+}
+.comp139_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: space-between !important;
+}
+.comp153_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp152_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(204, 204, 204, 1) !important;
+  border-width: 2rpx !important;
+  border-color: rgba(51, 51, 51, 1) !important;
+  border-style: solid none solid none !important;
+}
+.comp159_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp161_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: rgba(255, 255, 255, 1) !important;
+}
+.comp160_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp158_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(23, 139, 139, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp157_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp156_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp165_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp167_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: rgba(255, 255, 255, 1) !important;
+}
+.comp166_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp164_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(23, 139, 139, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp163_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp162_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp171_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp173_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: rgba(255, 255, 255, 1) !important;
+}
+.comp172_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp170_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(23, 139, 139, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp169_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp168_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp177_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp179_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp178_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp176_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(204, 204, 204, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp175_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp174_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp155_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-wrap: wrap !important;
+}
+.comp182_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp181_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(204, 204, 204, 1) !important;
+  border-color: rgba(51, 51, 51, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid none solid none !important;
+}
+.comp188_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp190_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: rgba(255, 255, 255, 1) !important;
+}
+.comp189_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp187_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(23, 139, 139, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp186_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp185_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp194_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp196_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: rgba(255, 255, 255, 1) !important;
+}
+.comp195_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp193_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(23, 139, 139, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp192_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp191_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp200_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp202_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: rgba(255, 255, 255, 1) !important;
+}
+.comp201_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp199_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(23, 139, 139, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp198_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp197_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp206_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp208_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp207_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp205_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(204, 204, 204, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp204_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp203_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp212_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp214_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp213_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp211_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(204, 204, 204, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp210_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp209_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp218_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp220_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp219_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp217_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(204, 204, 204, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp216_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp215_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp224_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp226_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp225_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp223_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(204, 204, 204, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp222_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp221_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp230_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp232_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp231_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp229_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(204, 204, 204, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp228_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp227_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp236_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp238_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp237_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp235_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(204, 204, 204, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp234_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp233_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp242_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp244_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp243_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp241_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(204, 204, 204, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp240_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp239_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp248_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp250_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp249_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp247_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(204, 204, 204, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp246_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp245_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp254_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp256_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp255_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp253_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(204, 204, 204, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp252_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp251_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp184_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-wrap: wrap !important;
+}
+.comp135_class {
+  width: 100% !important;
+  height: calc(100% - 100rpx) !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: auto !important;
+}
+.comp265_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp267_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: rgba(255, 255, 255, 1) !important;
+}
+.comp266_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp264_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(23, 139, 139, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp263_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp262_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp271_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp273_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: rgba(255, 255, 255, 1) !important;
+}
+.comp272_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp270_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(23, 139, 139, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp269_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp268_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp277_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp279_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: rgba(255, 255, 255, 1) !important;
+}
+.comp278_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp276_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(23, 139, 139, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp275_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp274_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp320_class {
+  width: 100% !important;
+  height: 90% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp324_class {
+  width: 48rpx !important;
+  height: 48rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp321_class {
+  width: 100% !important;
+  height: 10% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: flex-end !important;
+}
+.comp257_class {
+  width: 100% !important;
+  height: calc(100% - 100rpx) !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp285_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp287_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: rgba(255, 255, 255, 1) !important;
+}
+.comp286_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp284_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(23, 139, 139, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp283_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp282_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp291_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp293_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: rgba(255, 255, 255, 1) !important;
+}
+.comp292_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp290_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(23, 139, 139, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp289_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp288_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp327_class {
+  width: 100% !important;
+  height: 90% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp330_class {
+  width: 48rpx !important;
+  height: 48rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp329_class {
+  width: 100% !important;
+  height: 10% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: flex-end !important;
+}
+.comp281_class {
+  width: 100% !important;
+  height: calc(100% - 100rpx) !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp304_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp306_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: rgba(255, 255, 255, 1) !important;
+}
+.comp305_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp303_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(23, 139, 139, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp302_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp301_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp310_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp312_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: rgba(255, 255, 255, 1) !important;
+}
+.comp311_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp309_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(23, 139, 139, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp308_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp307_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp316_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp318_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: rgba(255, 255, 255, 1) !important;
+}
+.comp317_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp315_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(23, 139, 139, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp314_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp313_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp331_class {
+  width: 100% !important;
+  height: 90% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp334_class {
+  width: 48rpx !important;
+  height: 48rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp333_class {
+  width: 100% !important;
+  height: 10% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: flex-end !important;
+}
+.comp300_class {
+  width: 100% !important;
+  height: calc(100% - 100rpx) !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp362_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp360_class {
+  width: 50% !important;
+  height: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  align-items: center !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: none solid none none !important;
+}
+.comp363_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp361_class {
+  width: 50% !important;
+  height: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.comp359_class {
+  width: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp421_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp422_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp426_class {
+  display: inline !important;
+  line-height: 44rpx !important;
+  color: #333333 !important;
+  font-size: 30rpx !important;
+}
+.comp425_class {
+  width: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  flex-direction: row !important;
+  font-size: 32rpx !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  row-gap: 0rpx !important;
+  flex-grow: 0 !important;
+  flex-shrink: 1 !important;
+  column-gap: 0rpx !important;
+}
+.comp427_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp423_class {
+  width: 60% !important;
+  height: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 0rpx 0rpx 0rpx 40rpx !important;
+  justify-content: space-between !important;
+  border-color: rgba(51, 51, 51, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+}
+.comp420_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+}
+.comp429_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp430_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp431_class {
+  width: 60% !important;
+  height: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 0rpx 0rpx 0rpx 40rpx !important;
+  justify-content: space-between !important;
+  border-color: rgba(51, 51, 51, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+}
+.comp428_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+}
+.comp438_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp439_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp440_class {
+  width: 60% !important;
+  height: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 0rpx 0rpx 0rpx 40rpx !important;
+  justify-content: space-between !important;
+  border-color: rgba(51, 51, 51, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+}
+.comp437_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+}
+.comp447_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp454_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp448_class {
+  width: 60% !important;
+  height: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 0rpx 0rpx 0rpx 40rpx !important;
+  justify-content: center !important;
+  border-color: rgba(51, 51, 51, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  align-items: center !important;
+}
+.comp446_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+}
+.comp462_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp456_class {
+  width: 95% !important;
+  height: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  border-color: rgba(51, 51, 51, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+  padding: 24rpx 16rpx 24rpx 16rpx !important;
+  align-items: center !important;
+  border-radius: 16rpx 16rpx 16rpx 16rpx !important;
+}
+.comp455_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+}
+.comp419_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp510_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp511_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp509_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp513_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp514_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp522_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp512_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp516_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp517_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp515_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp524_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp525_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp523_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp519_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp520_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp518_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp507_class {
+  width: 75% !important;
+  height: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp521_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: rgba(245, 34, 45, 1) !important;
+}
+.comp508_class {
+  width: 156rpx !important;
+  height: 160rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 50% !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+.comp464_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: flex-start !important;
+  border-width: 2rpx !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-style: none none solid none !important;
+}
+.comp529_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp530_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp528_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp532_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp533_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp534_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp531_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp536_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp537_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp535_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp539_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp540_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp538_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp527_class {
+  width: 75% !important;
+  height: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp545_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+}
+.comp544_class {
+  width: 156rpx !important;
+  height: 160rpx !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 50% !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.comp554_class {
+  width: 100% !important;
+  height: 78% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp557_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp556_class {
+  width: 95% !important;
+  height: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  border-color: rgba(51, 51, 51, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+  padding: 40rpx 16rpx 40rpx 16rpx !important;
+  align-items: center !important;
+  border-radius: 16rpx 16rpx 16rpx 16rpx !important;
+}
+.comp555_class {
+  width: 100% !important;
+  height: 20% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  padding: 0rpx 0rpx 0rpx 16rpx !important;
+}
+.comp526_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: flex-start !important;
+  border-width: 2rpx !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-style: none none solid none !important;
+}
+.comp463_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp337_class {
+  width: 100% !important;
+  height: 90% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: auto !important;
+}
+.comp357_class {
+  width: 48rpx !important;
+  height: 48rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp356_class {
+  width: 100% !important;
+  height: 10% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: flex-end !important;
+}
+.comp336_class {
+  width: 100% !important;
+  height: calc(100% - 100rpx) !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp563_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp565_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: rgba(255, 255, 255, 1) !important;
+}
+.comp564_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp562_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(23, 139, 139, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp561_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp560_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp569_class {
+  width: 96rpx !important;
+  height: 96rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp571_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: rgba(255, 255, 255, 1) !important;
+}
+.comp570_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  margin: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp568_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(23, 139, 139, 1) !important;
+  align-items: center !important;
+  padding: 16rpx 0rpx 0rpx 0rpx !important;
+}
+.comp567_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp566_class {
+  width: 25% !important;
+  height: fit-content !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp559_class {
+  width: 100% !important;
+  height: 90% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp579_class {
+  width: 48rpx !important;
+  height: 48rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp578_class {
+  width: 100% !important;
+  height: 10% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: flex-end !important;
+}
+.comp558_class {
+  width: 100% !important;
+  height: calc(100% - 100rpx) !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp585_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp584_class {
+  width: 50% !important;
+  height: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  align-items: center !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: none solid none none !important;
+}
+.comp587_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp586_class {
+  width: 50% !important;
+  height: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.comp658_class {
+  width: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp660_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp745_class {
+  width: 80% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 0rpx 0rpx 0rpx 30rpx !important;
+}
+.comp659_class {
+  width: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-width: 2rpx !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-style: solid solid solid solid !important;
+}
+.comp583_class {
+  width: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp775_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp776_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp774_class {
+  width: 80% !important;
+  height: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp777_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp773_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+}
+.comp759_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp760_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp749_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+.comp762_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp763_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp761_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+.comp765_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp766_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp770_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 0rpx 0rpx 0rpx !important;
+  padding: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp771_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp764_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+.comp768_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp769_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp767_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp772_class {
+  width: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: none none solid none !important;
+}
+.comp781_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp782_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp780_class {
+  width: 80% !important;
+  height: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp783_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp779_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+}
+.comp789_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp790_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp784_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+.comp792_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp793_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp791_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+.comp795_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp796_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp797_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 0rpx 0rpx 0rpx !important;
+  padding: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp798_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp794_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+.comp800_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp801_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+  font-weight: bold !important;
+}
+.comp799_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp778_class {
+  width: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: none none solid none !important;
+}
+.comp588_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp806_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp807_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp805_class {
+  width: 80% !important;
+  height: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp808_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp804_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+}
+.comp814_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp815_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp809_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+.comp817_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp818_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp816_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+.comp820_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp821_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp822_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 0rpx 0rpx 0rpx !important;
+  padding: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp823_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp819_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+.comp825_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp826_class {
+  display: inline !important;
+  line-height: 48rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  font-weight: normal !important;
+}
+.comp824_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp852_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp853_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp851_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp803_class {
+  width: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: none none solid none !important;
+}
+.comp857_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp858_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp856_class {
+  width: 80% !important;
+  height: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp859_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp855_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+}
+.comp865_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp866_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp860_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+.comp868_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp869_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp867_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+.comp871_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp872_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp873_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 0rpx 0rpx 0rpx !important;
+  padding: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp874_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp870_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+.comp876_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp877_class {
+  display: inline !important;
+  line-height: 48rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  font-weight: normal !important;
+}
+.comp875_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp879_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp880_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: rgba(79, 180, 65, 1) !important;
+  font-weight: bold !important;
+}
+.comp878_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp854_class {
+  width: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: none none solid none !important;
+}
+.comp830_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp831_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp829_class {
+  width: 80% !important;
+  height: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp832_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp828_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+}
+.comp838_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp839_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp833_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+.comp841_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp842_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp840_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+.comp844_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp845_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp846_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 0rpx 0rpx 0rpx !important;
+  padding: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp847_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp843_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+.comp849_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp850_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: rgba(245, 34, 45, 1) !important;
+  font-weight: bold !important;
+}
+.comp848_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp882_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp883_class {
+  display: inline !important;
+  line-height: 48rpx !important;
+  font-size: 32rpx !important;
+  font-weight: normal !important;
+}
+.comp881_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+}
+.comp827_class {
+  width: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: none none solid none !important;
+}
+.comp802_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp582_class {
+  width: 100% !important;
+  height: 90% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: auto !important;
+}
+.comp657_class {
+  width: 48rpx !important;
+  height: 48rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp656_class {
+  width: 100% !important;
+  height: 10% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: flex-end !important;
+}
+.comp581_class {
+  width: 100% !important;
+  height: calc(100% - 100rpx) !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp131_class {
+  width: 100% !important;
+  height: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: auto !important;
+}
+.comp0_class {
+  width: 100% !important;
+  height: 100% !important;
+  overflow: hidden !important;
+}

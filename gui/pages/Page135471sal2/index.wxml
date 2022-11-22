@@ -1,0 +1,49 @@
+<view class="comp0_class">
+  <view class="comp2_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view class="comp4_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+      <van-dropdown-menu class="comp285_class" activeColor="rgba(72,138,139,1)" zIndex="100">
+        <van-dropdown-item class="comp286_class" value="0" disabled="{{false}}" titleSlot="{{false}}" optionsSlot="{{false}}" options="{{variable_shijianfenleishuzu}}" model:value="{{variable_shijianleixingid}}" bindchange="_method_qiehuanshangbaoshijianleixing"> <view class="comp287_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></van-dropdown-item>
+        <view class="comp288_class" slot="title0" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+        <van-dropdown-item class="comp289_class" options="{{comp289_options}}" disabled="{{false}}" titleSlot="{{false}}" optionsSlot="{{false}}" model:value="{{variable_vModelOfVanDropdownItem289}}" bindchange="_method_onChangeOfVanDropdownItem289"> <view class="comp290_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></van-dropdown-item>
+        <view class="comp291_class" slot="title1" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></van-dropdown-menu
+    ></view>
+    <view class="comp5_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+      <scroll-view class="comp6_class" scroll-x="{{false}}" scroll-y="{{true}}" upper-threshold="{{50}}">
+        <view class="comp7_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <view class="comp118_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <view class="comp119_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <view class="comp120_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                <x-text class="comp121_class" user-select="{{false}}" decode="{{false}}">作物异常</x-text>
+                <view class="comp122_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                  <view class="comp123_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp124_class" user-select="{{false}}" decode="{{false}}">待处理</x-text></view>
+                  <view class="comp125_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp126_class" user-select="{{false}}" decode="{{false}}">已处理</x-text></view></view
+                ></view
+              ></view
+            >
+            <view class="comp130_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <view class="comp131_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                <x-text class="comp132_class" user-select="{{false}}" decode="{{false}}">事件编号：</x-text>
+                <view class="comp133_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp134_class" user-select="{{false}}" decode="{{false}}">202201010002</x-text></view></view
+              >
+              <view class="comp135_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                <x-text class="comp136_class" user-select="{{false}}" decode="{{false}}">区域：</x-text>
+                <x-text class="comp137_class" user-select="{{false}}" decode="{{false}}">东区</x-text></view
+              >
+              <view class="comp272_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                <view class="comp273_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp274_class" user-select="{{false}}" decode="{{false}}">事件描述：</x-text></view>
+                <view class="comp275_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                  <view class="comp276_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp277_class" user-select="{{false}}" decode="{{false}}">东边田块里面的作物有问题…</x-text></view></view
+                ></view
+              >
+              <view class="comp141_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                <x-text class="comp142_class" user-select="{{false}}" decode="{{false}}">上报时间：</x-text>
+                <x-text class="comp143_class" user-select="{{false}}" decode="{{false}}">2022-10-12 20:02:10</x-text></view
+              ></view
+            ></view
+          ></view
+        ></scroll-view
+      ></view
+    ></view
+  >
+  <view class="comp269_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <button class="comp270_class" size="diy" type="default" plain="{{false}}" disabled="{{false}}" loading="{{false}}" hover-class="button-hover" hover-stop-propagation="{{false}}" hover-start-time="{{20}}" hover-stay-time="{{70}}">上报事件</button></view></view
+>

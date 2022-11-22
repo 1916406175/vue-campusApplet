@@ -1,0 +1,39 @@
+<view class="van-vtabs">
+  <view class="van-vtabs-bar__wrp {{tabBarClass}}" style="width: {{leftWidth}}px;background-color: {{tabInactiveBgColor}}">
+    <scroll-view
+      scroll-y
+      class="van-vtabs-bar__scrollview"
+      scroll-into-view="van-vtabs-item__{{currentView}}"
+    >
+      <view style="width: {{leftWidth}}px;" class="van-vtabs-bar__content">
+        <block wx:for="{{vtabs}}" wx:key="title">
+          <view
+            id="van-vtabs-item__{{index}}"
+            class="van-vtabs-bar__item"
+            data-index="{{index}}"
+            style="width: {{leftWidth}}px;background-color: {{activeTab === index ? tabActiveBgColor : tabInactiveBgColor}}; color: {{activeTab === index ? tabActiveTextColor : tabInactiveTextColor}}; border-left-color: {{activeTab === index ? tabLineColor : tabInactiveBgColor}}"
+            bindtap="handleTabClick"
+          >
+            <view class="van-vtabs-bar__title {{activeTab === index ? activeClass : ''}}">
+              <view style="height: 16px;width: 4px;background: {{activeTab === index ? tabLineColor : ''}};"></view>
+              <text class="van-vtabs-bar__title__text">{{item.title}}</text>
+            </view>
+          </view>
+        </block>
+      </view>
+    </scroll-view>
+  </view>
+  <view class="van-vtabs-content__wrp">
+    <scroll-view
+      scroll-y
+      class="van-vtabs-content__scrollview"
+      scroll-top="{{contentScrollTop}}"
+      scroll-with-animation="{{animation}}"
+      bindscroll="handleContentScroll"
+    >
+      <view class="van-vtabs-content">
+        <slot ></slot>
+      </view>
+    </scroll-view>
+  </view>
+</view>

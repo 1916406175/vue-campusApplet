@@ -1,0 +1,1 @@
+<view class="comp0_class"> <web-view class="comp3_class" src="{{variable_srcOfXWebView3}}"></web-view></view>

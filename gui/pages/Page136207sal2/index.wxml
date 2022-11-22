@@ -1,0 +1,109 @@
+<view class="comp0_class">
+  <view class="comp2_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <t-tabs class="comp3_class" tabUnderlineColor="rgba(72,138,139,1)" tabActiveTextColor="rgba(72,138,139,1)" tabInactiveTextColor="#333" tabBackgroundColor="#ffffff" tabActiveTextSize="{{17}}" tabInActiveTextSize="{{17}}" defaultValue="{{0}}" bindchange="_method_onChangeOfMpTabs3">
+      <t-tab-panel class="comp4_class" value="{{0}}" label="园区项目">
+        <view class="comp476_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <van-dropdown-menu class="comp1118_class" activeColor="#2d8cf0" zIndex="100">
+            <view class="comp1121_class" slot="title0" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+            <view class="comp1124_class" slot="title1" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+            <van-dropdown-item class="comp1126_class" value="0" disabled="{{false}}" title="项目类型" titleSlot="{{false}}" optionsSlot="{{false}}" options="{{variable_optionsOfVanDropdownItem1122}}" bindchange="_method_onChangeOfVanDropdownItem1126"> <view class="comp1128_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></van-dropdown-item
+          ></van-dropdown-menu>
+          <van-dropdown-item class="comp1162_class" value="-1" options="{{comp1162_options}}" disabled="{{false}}" title="项目状态" titleSlot="{{false}}" optionsSlot="{{false}}" model:value="{{variable_dataSyncOfvandropdownitem}}"> <view class="comp1163_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></van-dropdown-item
+        ></view>
+        <scroll-view class="comp17_class" scroll-x="{{false}}" scroll-y="{{true}}" upper-threshold="{{50}}">
+          <view class="comp1235_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variable_vifOfXView1235}}">
+            <view class="comp1236_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <view class="comp1237_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+              <x-text class="comp1238_class" user-select="{{false}}" decode="{{false}}">暂无数据</x-text></view
+            ></view
+          >
+          <view class="comp919_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <view class="comp920_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:for="{{variable_xiangmuliebiaoshuzu}}" wx:for-item="variableXiangmuliebiaoshuzuItem" wx:for-index="variableXiangmuliebiaoshuzuIndex" bindtap="_method_onTapOfXView920" data-variable-xiangmuliebiaoshuzu-item="{{variableXiangmuliebiaoshuzuItem}}">
+              <view class="comp921_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                <view class="comp922_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                  <x-text class="comp923_class" user-select="{{false}}" decode="{{false}}">{{ variableXiangmuliebiaoshuzuItem.projectGroupName }}</x-text>
+                  <view class="comp924_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                    <view class="comp925_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text style="color: {{variableXiangmuliebiaoshuzuItem.applicantState_color + ' !important'}}" class="comp926_class" user-select="{{false}}" decode="{{false}}">{{ variableXiangmuliebiaoshuzuItem.applicantState_text }}</x-text></view></view
+                  ></view
+                ></view
+              >
+              <view class="comp931_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                <view class="comp932_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                  <x-text class="comp933_class" user-select="{{false}}" decode="{{false}}">项目编号：</x-text>
+                  <view class="comp934_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp935_class" user-select="{{false}}" decode="{{false}}">{{ variableXiangmuliebiaoshuzuItem.projectCode }}</x-text></view></view
+                >
+                <view class="comp936_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                  <x-text class="comp937_class" user-select="{{false}}" decode="{{false}}">项目名称：</x-text>
+                  <x-text class="comp938_class" user-select="{{false}}" decode="{{false}}">{{ variableXiangmuliebiaoshuzuItem.projectName }}</x-text></view
+                ></view
+              >
+              <view class="comp1144_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                <x-text class="comp1145_class" user-select="{{false}}" decode="{{false}}">联系信息：</x-text>
+                <x-text class="comp1146_class" user-select="{{false}}" decode="{{false}}">{{ variableXiangmuliebiaoshuzuItem.relationMessage }}</x-text></view
+              >
+              <view class="comp1147_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                <x-text class="comp1148_class" user-select="{{false}}" decode="{{false}}">发布日期：</x-text>
+                <x-text class="comp1149_class" user-select="{{false}}" decode="{{false}}">{{ variableXiangmuliebiaoshuzuItem.createTime }}</x-text></view
+              ></view
+            ></view
+          ></scroll-view
+        ></t-tab-panel
+      >
+      <t-tab-panel class="comp6_class" value="{{1}}" label="我的项目">
+        <scroll-view class="comp147_class" scroll-x="{{false}}" scroll-y="{{true}}" upper-threshold="{{50}}">
+          <view class="comp628_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <picker class="comp1201_class" mode="multiSelector" disabled="{{false}}" value="{{comp1201_value}}" range="{{variable_rangeOfXPicker1201}}" bindchange="_method_onChangeOfXPicker1201">
+              <x-view class="comp1202_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp1203_class" user-select="{{false}}" decode="{{false}}">项目类型</x-text></x-view></picker
+            >
+            <picker class="comp1204_class" mode="multiSelector" disabled="{{false}}" range="{{comp1204_range}}" value="{{comp1204_value}}" bindchange="_method_onChangeOfXPicker1204">
+              <x-view class="comp1205_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp1206_class" user-select="{{false}}" decode="{{false}}">项目状态</x-text></x-view></picker
+            ></view
+          >
+          <view class="comp1239_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variable_vifOfXView1235}}">
+            <view class="comp1240_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <view class="comp1241_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+              <x-text class="comp1242_class" user-select="{{false}}" decode="{{false}}">暂无数据</x-text></view
+            ></view
+          >
+          <view class="comp1006_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <view class="comp1207_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:for="{{variable_wodexiangmuliebiaoshuzu}}" wx:for-item="variableWodexiangmuliebiaoshuzuItem" wx:for-index="variableWodexiangmuliebiaoshuzuIndex" bindtap="_method_onTapOfXView1207" data-variable-wodexiangmuliebiaoshuzu-item="{{variableWodexiangmuliebiaoshuzuItem}}">
+              <view class="comp1208_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                <view class="comp1209_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                  <view class="comp1247_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                    <x-text class="comp1248_class" user-select="{{false}}" decode="{{false}}">{{ variableWodexiangmuliebiaoshuzuItem.projectGroupName }}</x-text>
+                    <view class="comp1249_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                      <view class="comp1250_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text style="color: {{variableWodexiangmuliebiaoshuzuItem.applyState_color + ' !important'}}" class="comp1251_class" user-select="{{false}}" decode="{{false}}">{{ variableWodexiangmuliebiaoshuzuItem.applyState_text }}</x-text></view></view
+                    ></view
+                  >
+                  <view class="comp1252_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text style="color: {{variableWodexiangmuliebiaoshuzuItem.projectStatus_color + ' !important'}}" class="comp1253_class" user-select="{{false}}" decode="{{false}}">{{ variableWodexiangmuliebiaoshuzuItem.projectStatus_text }}</x-text></view></view
+                ></view
+              >
+              <view class="comp1214_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                <view class="comp1215_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                  <x-text class="comp1216_class" user-select="{{false}}" decode="{{false}}">项目编号：</x-text>
+                  <view class="comp1217_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp1218_class" user-select="{{false}}" decode="{{false}}">{{ variableWodexiangmuliebiaoshuzuItem.projectCode }}</x-text></view></view
+                >
+                <view class="comp1219_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                  <x-text class="comp1220_class" user-select="{{false}}" decode="{{false}}">项目名称：</x-text>
+                  <x-text class="comp1221_class" user-select="{{false}}" decode="{{false}}">{{ variableWodexiangmuliebiaoshuzuItem.projectName }}</x-text></view
+                ></view
+              >
+              <view class="comp1222_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                <x-text class="comp1223_class" user-select="{{false}}" decode="{{false}}">联系信息：</x-text>
+                <x-text class="comp1224_class" user-select="{{false}}" decode="{{false}}">{{ variableWodexiangmuliebiaoshuzuItem.relationMessage }}</x-text></view
+              >
+              <view class="comp1225_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                <x-text class="comp1226_class" user-select="{{false}}" decode="{{false}}">发布日期：</x-text>
+                <x-text class="comp1227_class" user-select="{{false}}" decode="{{false}}">{{ variableWodexiangmuliebiaoshuzuItem.createTime }}</x-text></view
+              >
+              <view class="comp1254_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variableWodexiangmuliebiaoshuzuItem.cause_boolean}}">
+                <x-text class="comp1255_class" user-select="{{false}}" decode="{{false}}">拒绝原因：</x-text>
+                <x-text class="comp1256_class" user-select="{{false}}" decode="{{false}}">{{ variableWodexiangmuliebiaoshuzuItem.cause }}</x-text></view
+              ></view
+            ></view
+          ></scroll-view
+        ></t-tab-panel
+      ></t-tabs
+    ></view
+  ></view
+>

@@ -1,0 +1,252 @@
+.comp0_class {
+  font-family: "Chinese Quote", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue",
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  line-height: 1.5;
+}
+view,
+movable-area,
+movable-view,
+scroll-view,
+swiper,
+swiper-item,
+view,
+progress,
+icon,
+rich-text,
+text,
+button,
+checkbox,
+checkbox-group,
+form,
+input,
+label,
+picker,
+picker-view,
+picker-view-column,
+radio,
+radio-group,
+slider,
+switch,
+navigator,
+image {
+  box-sizing: border-box;
+}
+page {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+switch .wx-switch-input {
+  margin-right: 0;
+}
+checkbox .wx-checkbox-input {
+  margin-right: 0;
+}
+radio .wx-radio-input {
+  margin-right: 0;
+}
+.input-placeholder {
+  color: #cccccc;
+}
+.textarea-placeholder {
+  color: #cccccc;
+}
+
+.comp1217_class {
+  width: 100% !important;
+  display: flex !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 0 !important;
+  flex-shrink: 1 !important;
+}
+.comp1218_class {
+  min-width: 80rpx !important;
+  display: flex !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 0 !important;
+  flex-shrink: 1 !important;
+}
+.comp1219_class {
+  min-width: 80rpx !important;
+  display: flex !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-grow: 0 !important;
+  flex-shrink: 1 !important;
+}
+.comp1215_class {
+  width: 100% !important;
+}
+.comp1196_class {
+  width: 320rpx !important;
+  height: 320rpx !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/FgNzgwjJbxNWDmkLdIh27m8ZvWO7") !important;
+  align-items: center !important;
+  justify-content: center !important;
+  margin: 0rpx 0rpx 36rpx 0rpx !important;
+}
+.comp1197_class {
+  display: -webkit-inline-box !important;
+  line-height: 38rpx !important;
+  font-size: 26rpx !important;
+  color: rgba(153, 153, 153, 1) !important;
+  text-align: center !important;
+  -webkit-line-clamp: 1 !important;
+  -webkit-box-orient: vertical !important;
+  overflow: hidden !important;
+}
+.comp1195_class {
+  width: fit-content !important;
+  height: fit-content !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 0rpx 0rpx 0rpx 0rpx !important;
+}
+.comp1194_class {
+  width: 100% !important;
+  height: fit-content !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-wrap: wrap !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 128rpx 0rpx 128rpx 0rpx !important;
+}
+.comp1193_class {
+  width: 100% !important;
+  height: fit-content !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp1202_class {
+  width: 76rpx !important;
+  height: 76rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp1201_class {
+  width: 100% !important;
+  height: 192rpx !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  align-items: center !important;
+  justify-content: center !important;
+  background-image: url("https://s2-cdn.oneitfarm.com/FtoLPFGZ4vWfF-eGIJeVidq-x-c1") !important;
+}
+.comp1204_class {
+  display: -webkit-inline-box !important;
+  line-height: 44rpx !important;
+  font-size: 30rpx !important;
+  color: #333333 !important;
+  text-align: center !important;
+  -webkit-line-clamp: 1 !important;
+  -webkit-box-orient: vertical !important;
+  overflow: hidden !important;
+}
+.comp1203_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.comp1200_class {
+  width: 100% !important;
+  height: fit-content !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 16rpx 16rpx 16rpx 16rpx !important;
+  background-color: rgba(255, 255, 255, 1) !important;
+}
+.comp1199_class {
+  width: 50% !important;
+  height: fit-content !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  padding: 8rpx 8rpx 8rpx 8rpx !important;
+}
+.comp1198_class {
+  width: 100% !important;
+  height: 100% !important;
+  padding: 16rpx 16rpx 16rpx 16rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  flex-wrap: wrap !important;
+  align-items: flex-start !important;
+  flex-grow: 1 !important;
+}
+.comp1192_class {
+  width: 100% !important;
+  height: 100% !important;
+}
+.comp1191_class {
+  width: 100% !important;
+  height: 100% !important;
+  padding: 0rpx 0rpx 0rpx 0rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  background-color: rgba(250, 250, 250, 1) !important;
+}
+.comp0_class {
+  width: 100% !important;
+  height: 100% !important;
+  overflow: hidden !important;
+}

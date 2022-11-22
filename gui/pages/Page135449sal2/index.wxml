@@ -1,0 +1,27 @@
+<view class="comp0_class">
+  <view class="comp1191_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <van-dropdown-menu class="comp1215_class" activeColor="#2d8cf0" zIndex="100">
+      <van-dropdown-item class="comp1216_class" value="0" disabled="{{false}}" title="放置区域" titleSlot="{{false}}" optionsSlot="{{false}}" options="{{variable_optionsOfVanDropdownItem1216}}" bindchange="_method_onChangeOfVanDropdownItem1216"> <view class="comp1217_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view></van-dropdown-item>
+      <view class="comp1218_class" slot="title0" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+      <view class="comp1219_class" slot="title1" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view
+    ></van-dropdown-menu>
+    <scroll-view class="comp1192_class" scroll-x="{{false}}" scroll-y="{{true}}" upper-threshold="{{50}}">
+      <view class="comp1193_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+        <view class="comp1194_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:if="{{variable_vifOfXView86}}">
+          <view class="comp1195_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <view class="comp1196_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"></view>
+            <x-text class="comp1197_class" user-select="{{false}}" decode="{{false}}">暂无数据</x-text></view
+          ></view
+        ></view
+      >
+      <view class="comp1198_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+        <view class="comp1199_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}" wx:for="{{variable_shebeiliebiaoshuzu}}" wx:for-item="variableShebeiliebiaoshuzuItem" wx:for-index="variableShebeiliebiaoshuzuIndex" bindtap="_method_onTapOfXView915" data-variable-shebeiliebiaoshuzu-item="{{variableShebeiliebiaoshuzuItem}}">
+          <view class="comp1200_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <view class="comp1201_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <image class="comp1202_class" src="https://s2-cdn.oneitfarm.com/FuuTsDCikJAyX7LGiwrRs3sDmc-z" mode="aspectFill"></image></view>
+            <view class="comp1203_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp1204_class" user-select="{{false}}" decode="{{false}}">{{ variableShebeiliebiaoshuzuItem.deviceName }}</x-text></view></view
+          ></view
+        ></view
+      ></scroll-view
+    ></view
+  ></view
+>

@@ -1,0 +1,21 @@
+<view class="comp0_class">
+  <view class="comp2_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+    <view class="comp3_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <image class="comp4_class" src="https://s2-cdn.oneitfarm.com/Fse5dFzja9Wl_8cuoG6d74po50-v" mode="scaleToFill"></image></view>
+    <view class="comp5_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+      <x-text class="comp6_class" user-select="{{false}}" decode="{{false}}">申请获取以下权限</x-text>
+      <x-text class="comp7_class" user-select="{{false}}" decode="{{false}}">获取你的登陆授权</x-text>
+      <button class="comp8_class" size="diy" type="primary" plain="{{false}}" disabled="{{false}}" loading="{{false}}" hover-class="button-hover" hover-stop-propagation="{{false}}" hover-start-time="{{20}}" hover-stay-time="{{70}}">授权登陆</button></view
+    >
+    <cover-view class="comp9_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+      <view class="comp10_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp11_class" user-select="{{false}}" decode="{{false}}">微信授权</x-text></view>
+      <view class="comp12_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+        <x-text class="comp13_class" user-select="{{false}}" decode="{{false}}">申请获得以下信息</x-text>
+        <x-text class="comp14_class" user-select="{{false}}" decode="{{false}}">· 获取你的公开信息(获取登陆公开授权)</x-text></view
+      >
+      <view class="comp15_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+        <view class="comp16_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp17_class" user-select="{{false}}" decode="{{false}}">拒绝</x-text></view>
+        <view class="comp18_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp19_class" user-select="{{false}}" decode="{{false}}">允许</x-text></view></view
+      ></cover-view
+    ></view
+  ></view
+>

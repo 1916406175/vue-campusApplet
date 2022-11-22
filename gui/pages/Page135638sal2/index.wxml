@@ -1,0 +1,59 @@
+<view class="comp0_class">
+  <scroll-view class="comp2_class" scroll-x="{{false}}" scroll-y="{{true}}" upper-threshold="{{50}}">
+    <view class="comp3_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+      <view class="comp43_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+        <view class="comp4_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <x-text class="comp5_class" user-select="{{false}}" decode="{{false}}">事件信息</x-text>
+          <view class="comp7_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <view class="comp8_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <x-text class="comp9_class" user-select="{{false}}" decode="{{false}}">事件编号：</x-text>
+              <view class="comp10_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp11_class" user-select="{{false}}" decode="{{false}}">202201010002</x-text></view></view
+            >
+            <view class="comp12_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <x-text class="comp13_class" user-select="{{false}}" decode="{{false}}">区域：</x-text>
+              <x-text class="comp14_class" user-select="{{false}}" decode="{{false}}">东区</x-text></view
+            >
+            <view class="comp15_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <view class="comp16_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp17_class" user-select="{{false}}" decode="{{false}}">事件描述：</x-text></view>
+              <view class="comp23_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                <view class="comp18_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp19_class" user-select="{{false}}" decode="{{false}}">东边田块里面的作物有问题…</x-text></view></view
+              ></view
+            >
+            <view class="comp20_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <x-text class="comp21_class" user-select="{{false}}" decode="{{false}}">上报时间：</x-text>
+              <x-text class="comp22_class" user-select="{{false}}" decode="{{false}}">2022-05-12 20:02:10</x-text></view
+            >
+            <view class="comp34_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <x-text class="comp35_class" user-select="{{false}}" decode="{{false}}">处理状态：</x-text>
+              <view class="comp38_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                <view class="comp39_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp40_class" user-select="{{false}}" decode="{{false}}">待处理</x-text></view>
+                <view class="comp41_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp42_class" user-select="{{false}}" decode="{{false}}">已处理</x-text></view></view
+              ></view
+            ></view
+          ></view
+        ></view
+      >
+      <view class="comp44_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+        <view class="comp45_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+          <x-text class="comp46_class" user-select="{{false}}" decode="{{false}}">处理情况</x-text>
+          <view class="comp47_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+            <view class="comp48_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <x-text class="comp49_class" user-select="{{false}}" decode="{{false}}">处理人：</x-text>
+              <view class="comp50_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp51_class" user-select="{{false}}" decode="{{false}}">李四 18908290178</x-text></view></view
+            >
+            <view class="comp55_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <view class="comp56_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp57_class" user-select="{{false}}" decode="{{false}}">事件描述：</x-text></view>
+              <view class="comp58_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+                <view class="comp59_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}"> <x-text class="comp60_class" user-select="{{false}}" decode="{{false}}">东边田块里面的作物有问题…</x-text></view></view
+              ></view
+            >
+            <view class="comp65_class" hover-stop-propagation="{{false}}" hover-start-time="{{50}}" hover-stay-time="{{400}}">
+              <x-text class="comp66_class" user-select="{{false}}" decode="{{false}}">处理时间：</x-text>
+              <x-text class="comp67_class" user-select="{{false}}" decode="{{false}}">2022-05-12 20:02:10</x-text></view
+            ></view
+          ></view
+        ></view
+      ></view
+    ></scroll-view
+  ></view
+>

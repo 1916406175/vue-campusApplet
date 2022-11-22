@@ -1,0 +1,10 @@
+{
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "navigationStyle": "default",
+  "navigationBarTitleText": "视频监控",
+  "usingComponents": {
+    "van-dropdown-item": "@wxmp/vant/dropdown-item",
+    "van-dropdown-menu": "@wxmp/vant/dropdown-menu"
+  }
+}

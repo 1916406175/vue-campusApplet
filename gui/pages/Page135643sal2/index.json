@@ -1,0 +1,10 @@
+{
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "navigationStyle": "default",
+  "navigationBarTitleText": "事件安排",
+  "usingComponents": {
+    "van-dropdown-item": "@wxmp/vant/dropdown-item",
+    "van-dropdown-menu": "@wxmp/vant/dropdown-menu"
+  }
+}

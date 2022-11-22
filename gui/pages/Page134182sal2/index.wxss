@@ -1,0 +1,976 @@
+.comp0_class {
+  font-family: "Chinese Quote", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue",
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  line-height: 1.5;
+}
+view,
+movable-area,
+movable-view,
+scroll-view,
+swiper,
+swiper-item,
+view,
+progress,
+icon,
+rich-text,
+text,
+button,
+checkbox,
+checkbox-group,
+form,
+input,
+label,
+picker,
+picker-view,
+picker-view-column,
+radio,
+radio-group,
+slider,
+switch,
+navigator,
+image {
+  box-sizing: border-box;
+}
+page {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+switch .wx-switch-input {
+  margin-right: 0;
+}
+checkbox .wx-checkbox-input {
+  margin-right: 0;
+}
+radio .wx-radio-input {
+  margin-right: 0;
+}
+.input-placeholder {
+  color: #cccccc;
+}
+.textarea-placeholder {
+  color: #cccccc;
+}
+
+.comp6_class {
+  width: 200rpx !important;
+  height: 200rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+  border-radius: 100rpx 100rpx 100rpx 100rpx !important;
+  border-color: rgba(51, 51, 51, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp7_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: rgba(0, 0, 0, 1) !important;
+  font-weight: bold !important;
+}
+.comp8_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp5_class {
+  height: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 0rpx 0rpx 0rpx 16rpx !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+.comp3_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-radius: 20rpx 20rpx 20rpx 20rpx !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp10_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp9_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 24rpx 24rpx 60rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 16rpx 0rpx 16rpx 0rpx !important;
+  border-radius: 60rpx 60rpx 60rpx 60rpx !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp14_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp13_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 24rpx 24rpx 60rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 16rpx 0rpx 16rpx 0rpx !important;
+  border-radius: 60rpx 60rpx 60rpx 60rpx !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp16_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp15_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 24rpx 24rpx 60rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 16rpx 0rpx 16rpx 0rpx !important;
+  border-radius: 60rpx 60rpx 60rpx 60rpx !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp18_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp17_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 24rpx 24rpx 60rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 16rpx 0rpx 16rpx 0rpx !important;
+  border-radius: 60rpx 60rpx 60rpx 60rpx !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp20_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp19_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 24rpx 24rpx 60rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 16rpx 0rpx 16rpx 0rpx !important;
+  border-radius: 60rpx 60rpx 60rpx 60rpx !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp22_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp21_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx 24rpx 24rpx 60rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  margin: 16rpx 0rpx 16rpx 0rpx !important;
+  border-radius: 60rpx 60rpx 60rpx 60rpx !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp46_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp53_class {
+  display: inline !important;
+  line-height: 60rpx !important;
+  font-size: 40rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp54_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp55_class {
+  width: 70% !important;
+  height: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+}
+.comp52_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+.comp57_class {
+  display: inline !important;
+  line-height: 60rpx !important;
+  font-size: 40rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp58_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp60_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp59_class {
+  width: 65% !important;
+  height: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.comp56_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+  justify-content: flex-start !important;
+}
+.comp62_class {
+  display: inline !important;
+  line-height: 60rpx !important;
+  font-size: 40rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp63_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp64_class {
+  width: 60% !important;
+  height: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.comp61_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+  justify-content: flex-start !important;
+}
+.comp67_class {
+  display: inline !important;
+  line-height: 60rpx !important;
+  font-size: 40rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp68_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp69_class {
+  width: 60% !important;
+  height: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.comp66_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+  justify-content: flex-start !important;
+}
+.comp78_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: normal !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp76_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+  justify-content: center !important;
+  border-radius: 50rpx 50rpx 50rpx 50rpx !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp25_class {
+  width: 100% !important;
+  height: 90% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp24_class {
+  width: 100% !important;
+  height: calc(100% - 100rpx) !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp102_class {
+  display: inline !important;
+  line-height: 60rpx !important;
+  font-size: 40rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp103_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp104_class {
+  width: 70% !important;
+  height: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+}
+.comp101_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+.comp106_class {
+  display: inline !important;
+  line-height: 60rpx !important;
+  font-size: 40rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp107_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp109_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp108_class {
+  width: 65% !important;
+  height: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.comp105_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+  justify-content: flex-start !important;
+}
+.comp111_class {
+  display: inline !important;
+  line-height: 60rpx !important;
+  font-size: 40rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp112_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp113_class {
+  width: 60% !important;
+  height: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.comp110_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+  justify-content: flex-start !important;
+}
+.comp127_class {
+  display: inline !important;
+  line-height: 48rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  font-family: "Noto Sans SC", sans-serif !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp125_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+  justify-content: center !important;
+  border-radius: 50rpx 50rpx 50rpx 50rpx !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp136_class {
+  display: inline !important;
+  line-height: 48rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  font-family: "Noto Sans SC", sans-serif !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp132_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+  justify-content: center !important;
+  border-radius: 50rpx 50rpx 50rpx 50rpx !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+  margin: 24rpx 0rpx 24rpx 0rpx !important;
+}
+.comp137_class {
+  display: inline !important;
+  line-height: 48rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  font-family: "Noto Sans SC", sans-serif !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp134_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+  justify-content: center !important;
+  border-radius: 50rpx 50rpx 50rpx 50rpx !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp82_class {
+  width: 100% !important;
+  height: 90% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp131_class {
+  width: 48rpx !important;
+  height: 48rpx !important;
+  vertical-align: top !important;
+  flex-shrink: 0 !important;
+}
+.comp130_class {
+  width: 100% !important;
+  height: 10% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  justify-content: flex-end !important;
+}
+.comp81_class {
+  width: 100% !important;
+  height: calc(100% - 100rpx) !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp159_class {
+  display: inline !important;
+  line-height: 60rpx !important;
+  font-size: 40rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp160_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp161_class {
+  width: 70% !important;
+  height: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+}
+.comp158_class {
+  width: 100% !important;
+  height: auto !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+}
+.comp163_class {
+  display: inline !important;
+  line-height: 60rpx !important;
+  font-size: 40rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp164_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp166_class {
+  display: inline !important;
+  line-height: 40rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+}
+.comp165_class {
+  width: 65% !important;
+  height: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.comp162_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+  justify-content: flex-start !important;
+}
+.comp168_class {
+  display: inline !important;
+  line-height: 60rpx !important;
+  font-size: 40rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+}
+.comp169_class {
+  display: inline !important;
+  line-height: 54rpx !important;
+  font-size: 36rpx !important;
+  color: #333333 !important;
+  font-weight: bold !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp170_class {
+  width: 60% !important;
+  height: 100% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+  margin: 0rpx 0rpx 0rpx 24rpx !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.comp167_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+  justify-content: flex-start !important;
+}
+.comp189_class {
+  display: inline !important;
+  line-height: 48rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  font-family: "Noto Sans SC", sans-serif !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp187_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+  justify-content: center !important;
+  border-radius: 50rpx 50rpx 50rpx 50rpx !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+  margin: 24rpx 0rpx 24rpx 0rpx !important;
+}
+.comp192_class {
+  display: inline !important;
+  line-height: 48rpx !important;
+  font-size: 32rpx !important;
+  color: #333333 !important;
+  font-family: "Noto Sans SC", sans-serif !important;
+  margin: 0rpx 16rpx 0rpx 16rpx !important;
+}
+.comp190_class {
+  width: 100% !important;
+  height: auto !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: row !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  align-items: center !important;
+  padding: 24rpx 24rpx 24rpx 24rpx !important;
+  justify-content: center !important;
+  border-radius: 50rpx 50rpx 50rpx 50rpx !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp139_class {
+  width: 100% !important;
+  height: 90% !important;
+  padding: 24rpx !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+.comp138_class {
+  width: 100% !important;
+  height: calc(100% - 100rpx) !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-color: rgba(153, 153, 153, 1) !important;
+  border-width: 2rpx !important;
+  border-style: solid solid solid solid !important;
+}
+.comp2_class {
+  width: 100% !important;
+  height: 100% !important;
+  display: flex !important;
+  font-size: 32rpx !important;
+  flex-shrink: 0 !important;
+  flex-direction: column !important;
+  overflow-x: hidden !important;
+  overflow-y: auto !important;
+}
+.comp0_class {
+  width: 100% !important;
+  height: 100% !important;
+  overflow: hidden !important;
+}

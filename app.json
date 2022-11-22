@@ -1,0 +1,91 @@
+{
+	"pages": [
+		"gui/pages/Page135470sal2/index",
+		"gui/pages/Page135467sal2/index",
+		"gui/pages/Page135466sal2/index",
+		"gui/pages/Page135463sal2/index",
+		"gui/pages/Page135453sal2/index",
+		"gui/pages/Page135452sal2/index",
+		"gui/pages/Page135449sal2/index",
+		"gui/pages/Page135448sal2/index",
+		"gui/pages/Page135430sal2/index",
+		"gui/pages/Page134773sal2/index",
+		"gui/pages/Page134762sal2/index",
+		"gui/pages/Page134761sal2/index",
+		"gui/pages/Page134760sal2/index",
+		"gui/pages/Page134759sal2/index",
+		"gui/pages/Page134341sal2/index",
+		"gui/pages/Page134182sal2/index",
+		"gui/pages/Page134181sal2/index",
+		"gui/pages/Page134180sal2/index",
+		"gui/pages/Page134154sal2/index",
+		"gui/pages/Page136260sal2/index",
+		"gui/pages/Page136258sal2/index",
+		"gui/pages/Page136256sal2/index",
+		"gui/pages/Page136255sal2/index",
+		"gui/pages/Page136253sal2/index",
+		"gui/pages/Page136252sal2/index",
+		"gui/pages/Page136251sal2/index",
+		"gui/pages/Page136231sal2/index",
+		"gui/pages/Page136227sal2/index",
+		"gui/pages/Page136207sal2/index",
+		"gui/pages/Page136044sal2/index",
+		"gui/pages/Page136040sal2/index",
+		"gui/pages/Page135958sal2/index",
+		"gui/pages/Page135649sal2/index",
+		"gui/pages/Page135647sal2/index",
+		"gui/pages/Page135644sal2/index",
+		"gui/pages/Page135643sal2/index",
+		"gui/pages/Page135638sal2/index",
+		"gui/pages/Page135477sal2/index",
+		"gui/pages/Page135471sal2/index",
+		"gui/pages/Page154354sal2/index",
+		"gui/pages/Page154343sal2/index",
+		"gui/pages/Page154304sal2/index",
+		"gui/pages/Page149701sal2/index",
+		"gui/pages/Page147344sal2/index",
+		"gui/pages/Page136698sal2/index",
+		"gui/pages/Page136692sal2/index",
+		"gui/pages/Page136521sal2/index"
+	],
+	"window": {
+		"backgroundTextStyle": "light",
+		"navigationBarBackgroundColor": "#fff",
+		"navigationBarTitleText": "Weixin",
+		"navigationBarTextStyle": "black"
+	},
+	"style": "v2",
+	"sitemapLocation": "sitemap.json",
+	"tabBar": {
+		"list": [
+			{
+				"text": "首页",
+				"iconPath": "gui/assets/Ly9zMi1jZG4ub25laXRmYXJtLmNvbS9GaTJWa3M2RGN3N0UteUVhR0dVTXByMlZKeDhR.png",
+				"selectedIconPath": "gui/assets/aHR0cHM6Ly9zMi1jZG4ub25laXRmYXJtLmNvbS9GbDYybF94R1NwMl9GWEhlTjJPZWlIcHl6RDZB.png",
+				"pagePath": "gui/pages/Page134759sal2/index"
+			},
+			{
+				"text": "待办",
+				"iconPath": "gui/assets/aHR0cHM6Ly9zMi1jZG4ub25laXRmYXJtLmNvbS9GdGhSYjFnR2JDMTBPWnJjcTBYdGtOTHFJeTI5.png",
+				"selectedIconPath": "gui/assets/aHR0cHM6Ly9zMi1jZG4ub25laXRmYXJtLmNvbS9Gc0RTNjN2N3FGakYyN1JxdlJwVURxR2duNW95.png",
+				"pagePath": "gui/pages/Page134760sal2/index"
+			},
+			{
+				"text": "消息",
+				"iconPath": "gui/assets/Ly9zMi1jZG4ub25laXRmYXJtLmNvbS9GamtNOW1IVnc4Q00xWGRLcEZBcXh6MlZxODdI.png",
+				"selectedIconPath": "gui/assets/aHR0cHM6Ly9zMi1jZG4ub25laXRmYXJtLmNvbS9GbkZUT0hobUE4dXZjSk0zSW1IZElIcndqZUky.png",
+				"pagePath": "gui/pages/Page134761sal2/index"
+			},
+			{
+				"text": "我的",
+				"iconPath": "gui/assets/Ly9zMi1jZG4ub25laXRmYXJtLmNvbS9GZzBiWEowSkY2ZThGMVViMm5wOHNDa0xLOHJ0.png",
+				"selectedIconPath": "gui/assets/aHR0cHM6Ly9zMi1jZG4ub25laXRmYXJtLmNvbS9GaVNEWDZqYWVZZEQtZThXQVluRjZQMU1FOThL.png",
+				"pagePath": "gui/pages/Page134762sal2/index"
+			}
+		],
+		"color": "#999999",
+		"selectedColor": "#488A8B",
+		"backgroundColor": "#FFFFFF"
+	},
+	"entryPagePath": "gui/pages/Page134759sal2/index"
+}
